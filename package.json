@@ -1,7 +1,14 @@
 {
-  "name": "preact-boilerplate",
-  "version": "6.0.0",
-  "description": "Ready-to-go Preact starter project powered by webpack.",
+  "private": true,
+  "name": "site-structure-preact",
+  "version": "0.0.4",
+  "description": "structures showed up in different fashions",
+  "keywords": [
+    "preact",
+    "boilerplate",
+    "webpack"
+  ],
+  "license": "MIT",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --inline --hot --progress",
     "start": "serve build -s -c 1",
@@ -12,34 +19,14 @@
     "test:watch": "npm run -s test -- --watch",
     "lint": "eslint src test"
   },
-  "keywords": [
-    "preact",
-    "boilerplate",
-    "webpack"
-  ],
-  "license": "MIT",
   "author": "Jason Miller <jason@developit.ca>",
-  "jest": {
-    "setupFiles": [
-      "./test/setup.js"
-    ],
-    "testURL": "http://localhost:8080",
-    "moduleFileExtensions": [
-      "js",
-      "jsx"
-    ],
-    "moduleDirectories": [
-      "node_modules"
-    ],
-    "moduleNameMapper": {
-      "\\.(jpg|jpeg|png|gif|eot|otf|webp|svg|ttf|woff|woff2|mp4|webm|wav|mp3|m4a|aac|oga)$": "<rootDir>/__mocks__/fileMock.js",
-      "\\.(css|less)$": "identity-obj-proxy",
-      "^react$": "preact-compat",
-      "^react-dom$": "preact-compat"
-    },
-    "collectCoverageFrom": [
-      "src/**/*.{js,jsx}"
-    ]
+  "dependencies": {
+    "ampersand-events": "2.0.2",
+    "jquery": "^3.2.1",
+    "lodash": "4.17.4",
+    "preact": "8.2.7",
+    "preact-compat": "3.17.0",
+    "preact-router": "2.6.0"
   },
   "devDependencies": {
     "autoprefixer": "^7.0.1",
@@ -87,13 +74,26 @@
     "webpack": "^3.0.0",
     "webpack-dev-server": "^2.4.4"
   },
-  "dependencies": {
-    "preact": "^8.1.0",
-    "preact-compat": "^3.15.0",
-    "preact-render-to-string": "^3.6.0",
-    "preact-router": "^2.5.1",
-    "promise-polyfill": "^6.0.2",
-    "proptypes": "^1.0.0",
-    "serve": "^6.0.0"
+  "jest": {
+    "setupFiles": [
+      "./test/setup.js"
+    ],
+    "testURL": "http://localhost:8080",
+    "moduleFileExtensions": [
+      "js",
+      "jsx"
+    ],
+    "moduleDirectories": [
+      "node_modules"
+    ],
+    "moduleNameMapper": {
+      "\\.(jpg|jpeg|png|gif|eot|otf|webp|svg|ttf|woff|woff2|mp4|webm|wav|mp3|m4a|aac|oga)$": "<rootDir>/__mocks__/fileMock.js",
+      "\\.(css|less)$": "identity-obj-proxy",
+      "^react$": "preact-compat",
+      "^react-dom$": "preact-compat"
+    },
+    "collectCoverageFrom": [
+      "src/**/*.{js,jsx}"
+    ]
   }
 }

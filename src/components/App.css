@@ -1,0 +1,89 @@
+span.highlight {
+  font-size: larger;
+  padding-right: 20px;
+}
+span.default {
+  font-size: smaller;
+  padding-right: 20px;
+}
+div.itemrow {
+  padding-bottom: 10px;
+}
+h1 {
+  text-align: center;
+}
+.app , .card {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+/* hierarchy */
+.panel-heading {
+  display: none;
+}
+a .defaultConsole {
+  height: 15px;
+  opacity: 0.0;
+  transition-delay: 0.02s;
+  transition-property: opacity;
+  transition-duration: 1.5s;
+  transition-timing-function: ease;
+}
+a:hover .defaultConsole{
+  height: 15px;
+  opacity: 0.5;
+  transition-delay: 0.02s;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  transition-timing-function: ease;
+}
+.iconsOverlay   {position: absolute; padding: 0px; margin: 0px; left:-5px; top:-10px}
+
+
+/* rest */
+.indent {
+  padding: 0;
+  margin-left: 1em;
+}
+
+.no-list {
+  list-style: none;
+}
+.black-link {
+  color: black;
+}
+.center {
+  text-align: center
+}
+@media print {
+  a[href]:after {
+    content: none !important;
+  }
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 15px;
+}
+td {
+  text-align: center;
+}
+/* hierarchy */
+.panel-heading {
+	display: none;
+}
+a .defaultConsole {
+	height: 15px;
+	opacity: 0.0;
+  transition-delay: 0.02s;
+  transition-property: opacity;
+  transition-duration: 1.5s;
+  transition-timing-function: ease;
+}
+ a:hover .defaultConsole{
+  height: 15px;
+  opacity: 0.5;
+  transition-delay: 0.02s;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  transition-timing-function: ease;
+}

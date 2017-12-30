@@ -1,9 +1,10 @@
+/* eslint-disable import/no-named-as-default */
 import { h, Component } from 'preact';
 import { Router } from 'preact-router';
-
-import Header from './header';
-import Home from './home';
-import Profile from './profile';
+import { Link } from 'preact-router/match';
+import Structure from './SiteStructure/Structure';
+import AboutPage from './AboutPage/AboutPage';
+import NotFoundPage from './NotFoundPage';
 
 export default class App extends Component {
 	/** Gets fired when the route changes.
@@ -13,15 +14,19 @@ export default class App extends Component {
 	handleRoute = e => {
 		this.currentUrl = e.url;
 	};
-
 	render() {
 		return (
-			<div id="app">
-				<Header />
+			<div>
+				<div>
+					<Link activeClassName="active" href="/">Structure</Link>
+					{' | '}
+					<Link activeClassName="active" href="/about">AboutPage</Link>
+				</div>
 				<Router onChange={this.handleRoute}>
-					<Home path="/" />
-					<Profile path="/profile/" user="me" />
-					<Profile path="/profile/:user" />
+					<Structure path="/" />
+					<AboutPage path="/about" />
+					<AboutPage path="/search/:query/:advanced?" />
+					<NotFoundPage default />
 				</Router>
 			</div>
 		);

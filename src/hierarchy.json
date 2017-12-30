@@ -1,0 +1,1129 @@
+               {"name": "Sparen", 
+              "id":  "1",
+              "shortdesc":  "Sparen macht Geld. Wer spart erspart sich die Miete. Wohin man geht, überall sind Preise. Wer heute spart hat morgen ein schönes Leben. Kaum hat man gespart,schon kommen neue Ideen zur Ausprägung. Diese Seite beschreibt ausführlich wie man sein Benzinverbrauch senken kann. Auto fahren wird schöner wenn man bewusst fährt. Der Benzinverbrauch ist vielen eine Dorn im Auge. Beim Tanken öffnen sich die Augen wieviel Auto fahren kostet.",
+              "url":  "spare-benzin.de.php",
+              "children": [
+              {"name": "Fahrweise", 
+              "id":  "2",
+              "shortdesc":  "Beim Auto fahren kann man einiges Benzin sparen. Was man einspart, landet immer im Geldbeutel, auch wenn man es nicht merkt. Es fördert die Aufmerksamkeit und die Geduldsamkeit mit Verkehrsituationen. Die Fahrweise ist verbrauchsbestimmend. Das Auto verbraucht nur soviel wie man Gas gibt.",
+              "url":  "Fahrweise/Einleitung.php",
+              "children": [
+              {"name": "Einführung", 
+              "id":  "3",
+              "shortdesc":  "In das Thema Benzin sparen will eingeführt werden. Es ist ein sehr umfassendes Thema. Es geht um richtige Verhaltensweise in bestimmten Verkehrssituationen. Dieses Verhalten will ergründet sein, damit es verständlich ist. Bitte nehmen Sie sich Zeit die Grundlagen des Benzin sparen zu studieren. Es wird Ihnen helfen, die Fahrtipps besser zu verstehen und nach Wirksamkeit einzuordnen. Oft sind Kompromisse zu treffen, zwischen zwei konkurrierenden Aspekten. Wenn Sie die Fahrtipps besser verstehen wollen, sollten Sie die Grundlage Ihrer Wirksamkeit verstehen.",
+              "url":  "Fahrweise/Grundlagen/Einfuehrung.php",
+              "children": [
+              {"name": "Warnhinweise", 
+              "id":  "4",
+              "shortdesc":  "Beim Erstellen dieser Seite wurde große Sorgfalt auf Korrektheit gestellt. Jedoch können bei einem so umfangreichen Werk auch zahlreiche Fehler unterlaufen. Daher trage ich keine Verantwortung für eventuelle Schäden, die durch die Anwendung dieser Fahrtipps entstehen.",
+              "url":  "Fahrweise/Grundlagen/Warnhinweise/Warnhinweise.php"
+              },
+              {"name": "Was ist Verbrauch?", 
+              "id":  "5",
+              "shortdesc":  "Den Verbrauch brauche ich beim Fahren nicht wahr zu nehmen. Nur hinnehmen werde ich ihn.",
+              "url":  "Fahrweise/Grundlagen/Verbrauch/Verbrauch.php",
+              "children": [
+              {"name": "Verbrauchsformeln anhand Benzinmenge", 
+              "id":  "6",
+              "shortdesc":  "Berechnen Sie den Kraftstoff-Durchschnittsverbrauch anhand der Fahrstrecke",
+              "url":  "Fahrweise/Grundlagen/Verbrauch/Verbrauchsformeln/Verbrauchsformeln.php"
+              },
+              {"name": "Den Verbrauch einfach rechnen!", 
+              "id":  "7",
+              "shortdesc":  "Selbst Indianer können allein anhand der Rauchzeichen zwischen Tankstelle und Tankstelle keinen Verbrauch entziffern. Messen kann man ihn einfacher. Man muss nur die Fahrleistung zu einer gewissen Kraftstoffmenge kennen.",
+              "url":  "Fahrweise/Grundlagen/Verbrauch/EinfachRechnen/Rechnen.php"
+              }
+        ]},
+              {"name": "Fahrenergie physikalisch", 
+              "id":  "8",
+              "shortdesc":  "Das Thema Benzinsparen ist technisch, deswegen kann ein kurzer Abstecher ins Reich der Physik nicht schaden. Enthüllen wir mal, was unter der Motorhaube passiert. Wie Kraftstoffströme in den düsteren Kanälen des Motors verbrennen. Welche Energie aus dem schwarzen Gold entsteht und wohin sie verschwindet — und was davon ankommt.",
+              "url":  "Fahrweise/Grundlagen/PhysikGrundlage/PhysikGrundlage.php",
+              "children": [
+              {"name": "Wie erzeugen Verbrennungsmotoren Energie?", 
+              "id":  "9",
+              "shortdesc":  "Ablauf in einem Viertakt-Verbrennungsmotor, Ottomotor:",
+              "url":  "Fahrweise/Grundlagen/PhysikGrundlage/VierTaktMotorPrinzip/VierTaktMotorPrinzip.php"
+              },
+              {"name": "Fahrwiderstände", 
+              "id":  "10",
+              "shortdesc":  "Nachdem also mindestens 75 % der Gesamtenergie aus dem Tropfen Benzin nutzlos verkrümelt ist, darf nur ein Restchen des Energiekuchens den Energiehunger des Fahrerstils stillen und auf die Räder kommen. Auf Wunsch des Fahrers machen sich dort fünf Energiefresser über das Stück her:",
+              "url":  "Fahrweise/Grundlagen/PhysikGrundlage/Verluste/Verluste-Fahren.php"
+              },
+              {"name": "Luftwiderstand", 
+              "id":  "11",
+              "shortdesc":  "Der Luftwiderstand ist bei kleinen Geschwindigkeiten kaum merklich. Bei großen Geschwindigkeiten begegnet er uns mit brachialer Gewalt. Um ihn in Zahlen fassen haben Wissenschaftler eine recht einfache Formel gefunden. Diese wollen wir hier ergründen.",
+              "url":  "Fahrweise/Grundlagen/PhysikGrundlage/Luftwiderstand/Luftwiderstand.php",
+              "children": [
+              {"name": "Luftwiderstand", 
+              "id":  "12",
+              "shortdesc":  "Dieses Diagramm zeigt den Luftwiderstand nach veränderlichen Parametern cw-Wert (den Luftwiderstandsbeiwert) und A (der Stirnfläche). Das ganze ist mit einem rho von 1,202 kg/m³ gerechnet, dies entspricht einer Luftsichte bei 200m Höhe. Das Diagramm zeigt den Luftwiderstand und die erforderliche Leistung ihn zu überwinden an.",
+              "url":  "assets/js/diagram/speed-air/speed-air.php"
+              }
+        ]},
+              {"name": "Vergleich eines Kraftwerks mit einem Auto", 
+              "id":  "13",
+              "shortdesc":  "Ein Kraftwerk ist riesengroß. Bei einem Besuch in einem Steinkohlekraftwerk ist mir folgender Vergleich eingefallen: Ein Auto verbraucht soviel Energie wie ein Turbinenrad im Kühlturm des Kraftwerks. Im Anbetracht der Verluste eines Kraftwerks ist diese Energie nicht zu vernachlässigen.",
+              "url":  "Fahrweise/Grundlagen/PhysikGrundlage/VergleichAutoKraftwerk/VergleichAutoKraftwerk.php"
+              },
+              {"name": "Fahrwiderstände", 
+              "id":  "14",
+              "shortdesc":  "Dieses Diagramm zeigt die Fahrwiderstände aufgrund einer physikalisch akuraten Simulation eines Fahrzeuges mit einem Motor mit Schaltgetriebe. Die Linien zeigen a) Rollreibung b) Luftwiderstand summiert mit Rollreibung c) Motorreibung summiert mit Luftwiderstand und Rollreibung in verschiedenen Gängen. Man sieht, dass für höhere Geschwindigkeit mehr Kraft aufzubringen ist. Daher verhält es sich so, dass bei höheren Geschwindigkeiten mehr Kraftstoff verbraucht wird.",
+              "url":  "assets/js/diagram/speed-friction/speed-friction.php"
+              },
+              {"name": "Energieerhaltung", 
+              "id":  "15",
+              "shortdesc":  "Die Energieerhaltung ist ein physikalisches Gesetz, das alle bewegten Körper betrifft, unabhängig von Form und Aussehen. Mit der Energieerhaltung kann Geschwindigkeit in Höhe umgesetzt werden. Das kann man sich so vorstellen, als ob man mit Schwung einen Berg hinauffährt. Damit lässt sich unter idealen Bedingungen (keine Reibung) berechnen, welchen Schwung man braucht um eine gewisse Höhe zu erklimmen.",
+              "url":  "assets/js/physics/Energieerhaltung/Energieerhaltung.php"
+              }
+        ]},
+              {"name": "Starke Wagen in der Öko-Rallye", 
+              "id":  "16",
+              "shortdesc":  "Da geht ein Raunen durchs Land! Buuh! Wie uncool ist das denn? Sein Bild hier bei der Corrado Google Bildersuche auf Platz 1. Und dort draußen hörst du im Radio auf der A8 bitte langsam fahren, wegen einem Sprittransport, der nicht überholt.",
+              "url":  "Fahrweise/Grundlagen/Einleitung/StarkeWagen/StarkeWagen.php"
+              },
+              {"name": "Karriere in der Öko-Rallye", 
+              "id":  "17",
+              "shortdesc":  "Mit 10% Benzin sparen zum Beispiel 1 L/100km sind 15 € nach 1.000 km im Krug. So spart man nach 100.000 km und 1.000 Liter gesparten Kraftstoff, etwa 1.500 € sein eigen nennen. Vielleicht kann man sich so mehr vom Bioladen oder vom heimischen Spielzeugwerk.",
+              "url":  "Fahrweise/Grundlagen/Einleitung/OekoRally/OekoRally.php"
+              },
+              {"name": "Wann funktioniert Kraftstoff sparen überhaupt?", 
+              "id":  "18",
+              "shortdesc":  "Viele haben Kraftstoffsparen schon Mal probiert aber es funktionierte nicht. Wie geht Kraftstoff sparen?",
+              "url":  "Fahrweise/Grundlagen/Einleitung/FunktioniertSparen/FunktioniertSparen.php"
+              },
+              {"name": "Hektik ist so verbreitet wie das Auto", 
+              "id":  "19",
+              "shortdesc":  "Schnell noch dorthin, dann dorthin und dann schnell wieder zurück. Als man noch gelaufen ist, kannte man noch kein Wort wie „Stress“. Doch irgendwie schlug gerade die Erleichterung und Verschnellerung die Zeiträuber-Laufbahn ein.",
+              "url":  "Fahrweise/Grundlagen/Hektik/HektikVebreitung.php",
+              "children": [
+              {"name": "Hektik überschattet Spargedanken", 
+              "id":  "20",
+              "shortdesc":  "Jetzt bin ich abgeschweift. Schauen wir, dass wir langsam wieder zurück zum Thema rudern. Lassen wir mal die Hektik hinter uns. Begeben wir uns zur Ruhe, dort wo der Genuss aufkeimen kann. Hier in der Ruhe liegt die Kraft. Deswegen spiegeln sich hier die wesentlichen Kernpunkte:",
+              "url":  "Fahrweise/Grundlagen/Hektik/HektikContraSparen.php"
+              },
+              {"name": "Immer buntere Früchte der Spargedanken", 
+              "id":  "21",
+              "shortdesc":  "Es wird Zeit den grauen Schleier des Geizers, Ökos, Weltverbesserers zu lüften. Benzinsparer ...",
+              "url":  "Fahrweise/Grundlagen/Hektik/HektikLoseBenzinSparer.php"
+              }
+        ]}
+        ]},
+              {"name": "Beschleunigen", 
+              "id":  "22",
+              "shortdesc":  "Beim Beschleunigen kann man viel Benzin sparen, man muss früh schalten und die Drehzahl niedrig halten. Wir teilen das Thema auf diese 5 Bereich auf.",
+              "url":  "Fahrweise/Antrieb/Antrieb.php",
+              "children": [
+              {"name": "Motor starten", 
+              "id":  "23",
+              "shortdesc":  "Vor dem Motor starten, muss man die richtige Reihenfolge einhalten, damit man spart.",
+              "url":  "Fahrweise/Antrieb/starten/MotorStarten/MotorStarten.php",
+              "children": [
+              {"name": "Kalte Motoren", 
+              "id":  "24",
+              "shortdesc":  "Für einen Motor ist Öl das allerwichtigste. Nur wenn Metallteile ölbenetzt sind, laufen sie geschmeidig und nahezu abrieblos.",
+              "url":  "Fahrweise/Antrieb/starten/MotorKaltWarm/MotorKaltWarm.php"
+              },
+              {"name": "Anfahren", 
+              "id":  "25",
+              "shortdesc":  "Sie sollten flott anfahren: Man erhöht die Drehzahl mit etwas Gas und kuppelt dann sachte in den 1. Gang ein. Wie hoch und wie sachte, liegt am Auto.",
+              "url":  "Fahrweise/Antrieb/anfahren/anfahren.php"
+              },
+              {"name": "Motormassen mitbeschleunigen", 
+              "id":  "26",
+              "shortdesc":  "Das Getriebe ist das Bindeglied der Motordrehzahl mit der Raddrehzahl. Jeder Gang erzeugt eine andere Untersetzung. Im 1. Gang dreht der Motor verglichen mit der Fahrgeschwindigkeit am schnellsten.",
+              "url":  "Fahrweise/Antrieb/hochdrehen/hochdrehen.php"
+              }
+        ]},
+              {"name": "Beschleunigen", 
+              "id":  "27",
+              "shortdesc":  "Beschleunigungssituationen",
+              "url":  "Fahrweise/Antrieb/beschleunigen/beschleunigen.php",
+              "children": [
+              {"name": "Motor Drehmoment-Leistungs-Diagramm", 
+              "id":  "28",
+              "shortdesc":  "Das Drehmoment-Leistungsdiagramm ist das meist gesehene Diagramm von Kraftfahrzeugmotoren. Man sieht es in Zeitschriften und in den Broschüren der Händler. Es zeigt die Leistungsentfaltung des Motors über den Drehmomentbereich. Davon kann man ableiten wie agil ein Fahrzeug ist. Diesel-Motoren haben einen sehr flachen Leistungsverlauf, was große Vorteile auf die Leistungsentfaltung bei niedrigen Drehzahlenhat. Benzin-Motoren haben einen eher steigenden Leistungsverlauf, was bei hohen Drehzahlen große Leistung freisetzt. Daher kommt es dass man bei Benzin-Motoren eher einen Gang runter schalten muss, um große Leistung auf die Räder zu bringen.",
+              "url":  "assets/js/diagram/motor-torque/motor-torque.php"
+              },
+              {"name": "Beschleunigen mit großem Wirkungsgrad", 
+              "id":  "29",
+              "shortdesc":  "Die Zeit der Beschleunigung ist eine Zeit hohen Verbrauchs. Beschleunigen ist aber wichtig wie für Vögel das Abheben, um sparsame Geschwindigkeiten zu erklimmen.",
+              "url":  "Fahrweise/Antrieb/beschleunigen/Wirkungsgrad/BeschleunigenWirkungsgrad.php"
+              },
+              {"name": "Antriebsleistung eines Verbrennungsmotors", 
+              "id":  "30",
+              "shortdesc":  "Im Fahrschaubild sieht man die Kräfte die ein Fahrzeug bei verschiedenen Gängen und aufsteigender Geschwindigkeit auf die Straße bringt. Davon kann man ableiten, welche Zugkraft oder welche Steigfähigkeit es hat.",
+              "url":  "Fahrweise/Antrieb/beschleunigen/Fahrschaubild/Fahrschaubild.php"
+              },
+              {"name": "Beschleunigen an der kurzen Leine", 
+              "id":  "31",
+              "shortdesc":  "Ein Fahrradfahrer mit 24-Gang-Schaltung, kann den Gang so wählen, dass er auch beim Beschleunigen eine einigermaßen gleichmäßige Trittfrequenz behalten kann. Im Auto wäre es ebenso wünschenswert, die verbrauchsarme tiefe Drehzahl zu behalten. Nur geht das mit 4 bis 6 Gängen nicht so schön (wer will zudem schon 24 Gänge durchschalten, um auf 50 zu kommen?).",
+              "url":  "Fahrweise/Antrieb/beschleunigen/OhnePlatz/beschleunigenOhnePlatz.php"
+              },
+              {"name": "Beschleunigen mit E-Autos", 
+              "id":  "32",
+
+              "url":  "Fahrweise/Antrieb/beschleunigen/E-Auto/beschleunigenE-Auto.php"
+              },
+              {"name": "Tief und schnell schalten", 
+              "id":  "33",
+              "shortdesc":  "Ich bekomme über mögliche Hinderungsgründe Bescheid bevor ich viel Energie reingesteckt habe",
+              "url":  "Fahrweise/Antrieb/beschleunigen/langsam/beschleunigenLangsam.php"
+              }
+        ]},
+              {"name": "Hohen Gang wählen", 
+              "id":  "34",
+              "shortdesc":  "Dauerhaft hohe Drehzahlen kreischen nach Nachteilen: Die gute Corinna hat, dank ihrer großen Zylindertüten, null Problem, 30 Liter wegzuschlürfen, wenn man sie nutzlos hochjodeln lässt. Um mehr Kilometer aus dem Tropfen zu pressen, musste ich ihr beibringen, mit tiefsten Drehzahlen zu fahren. Wir schalten früh hoch.",
+              "url":  "Fahrweise/Antrieb/schalten/DrehzahlFlach/DrehzahlFlach.php",
+              "children": [
+              {"name": "Schnelle Schaltvorgänge", 
+              "id":  "35",
+              "shortdesc":  "Benzinsparen und Schnellfahren stehen scheinbar im Kontrast. Doch das Eine enthält im Kern das Andere. Für Rennfahrer sind lang dauernde Schaltvorgänge verlorene Zeit. Doch träges Schalten hilft bei der Benzinsparrallye auch nicht auf die Sprünge.",
+              "url":  "Fahrweise/Antrieb/schalten/schnell/schnell.php"
+              },
+              {"name": "Springend schalten", 
+              "id":  "36",
+              "shortdesc":  "Beim Schalten einen Gang überspringen in gewissen Fahrsituationen",
+              "url":  "Fahrweise/Antrieb/schalten/springend/springend.php"
+              },
+              {"name": "Der Turbodiesel-Motor", 
+              "id":  "37",
+              "shortdesc":  "Wer Turbodiesel fährt, wird mit satten Kräften verwöhnt. Der Verbrauch ist niedriger und lässt sich auch von akuten Bleifuss-Attacken wenig beeinflussen. Der Grund ist mitunter, dass man die Drehzahl nicht hochkurbeln muss, um satt zu beschleunigen. Messbar ist das im Drehmomentverlauf: Ein hohes, konstantes Drehmoment bei niedrigen Drehzahlen.",
+              "url":  "Fahrweise/Antrieb/schalten/TurboDiesel/TurboDiesel.php"
+              },
+              {"name": "Das (Standard-) Automatikgetriebe", 
+              "id":  "38",
+              "shortdesc":  "Während in Europa Automatikgetriebe eine Seltenheit sind, sind sie in USA die Regel. Ähnliches gilt für die Verbrauchsanzeige - nur anders herum. Die Welten sind verschieden.",
+              "url":  "Fahrweise/Antrieb/schalten/Automatikgetriebe/Automatikgetriebe.php",
+              "children": [
+              {"name": "Hochschalten nahe legen", 
+              "id":  "39",
+              "shortdesc":  "Beim Schaltgetriebe gilt: Viel Gas, früh schalten. Bei der Automatik: Wenig Gas, damit sie früh schaltet.",
+              "url":  "Fahrweise/Antrieb/schalten/Automatikgetriebe/HochschaltenNahelegen/HochschaltenNahelegen.php"
+              },
+              {"name": "Runterschalten vermeiden", 
+              "id":  "40",
+              "shortdesc":  "Das Kreuz mit den Automatiken ist, dass sie trotz der ihnen auf den Weg gegebenen Lernsysteme den Fahrstil nicht erlernen werden. Menschen sind zum Glück im Vorteil — sie lernen dafür ihre Automatik kennen.",
+              "url":  "Fahrweise/Antrieb/schalten/Automatikgetriebe/RunterschaltenMeiden/RunterschaltenMeiden.php"
+              },
+              {"name": "Im Stand die Neutralstellung nutzen", 
+              "id":  "41",
+              "shortdesc":  "Man könnte den Gang D drin lassen, auch beim Warten an der Ampel. Das Auto steht ja, so lange man bremst. Erst wenn man die Bremse löst, schiebt D das Auto nach vorn.",
+              "url":  "Fahrweise/Antrieb/schalten/Automatikgetriebe/StandNeutral/StandNeutral.php"
+              },
+              {"name": "Bewusst herunterschalten", 
+              "id":  "42",
+              "shortdesc":  "Bewusst herunterschalten um Benzinzufuhr zu drosseln",
+              "url":  "Fahrweise/Antrieb/schalten/Automatikgetriebe/RunterschaltenBewusst/RunterschaltenBewusst.php"
+              },
+              {"name": "Die Automatik muss warm werden", 
+              "id":  "43",
+              "shortdesc":  "So eine Wandlerautomatik hat es morgens nicht einfach. So lange sie noch nicht auf Betriebstemperatur ist, ist ihr Wirkungsgrad mies. Und sie ist lange kalt.",
+              "url":  "Fahrweise/Antrieb/schalten/Automatikgetriebe/Getriebetemperatur/Getriebetemperatur.php"
+              }
+        ]}
+        ]}
+        ]},
+              {"name": "Geschwindigkeit", 
+              "id":  "44",
+              "shortdesc":  "So schnell man fährt so viel Sprit verbraucht man. Steuert man sein Tempo, steuert man sein Verbrauch. Wer viel fährt, sollte sich über den Vebrauch Gedanken machen. Man kann viel sparen, wenn man langsamer fährt.",
+              "url":  "Fahrweise/Geschwindigkeit/Geschwindigkeit.php",
+              "children": [
+              {"name": "Verbrauch bei bestimmten Geschwindigkeiten", 
+              "id":  "45",
+              "shortdesc":  "Je nach Gang verbraucht der Motor mehr oder weniger Benzin. Je schneller man fährt, desto höher ist die Drehzahl, damit steigt der Verbrauch.",
+              "url":  "Fahrweise/Geschwindigkeit/Geschwindigkeitsbereiche/Geschwindigkeitsbereich.php",
+              "children": [
+              {"name": "Geschwindigkeits-Verbrauch-Rechner", 
+              "id":  "46",
+              "shortdesc":  "Bei dieser Simulation wird eine konstante Geschwindigkeit angenommen und der Verbrauch berechnet. Es wird in verschiedenen Gängen gefahren. Man sieht deutlich, dass der Verbrauch in hohen Gängen deutlich abnimmt. Das liegt an der gesteigerten Drehzahl, bei gleichbleibender Geschwindigkeit. Man kann sich ein Bild machen, welches die verbrauchsärmste Geschwindigkeit ist. Diese Diagramm ist ausschlaggebend bei der Wahl des Ganges und der Geschwindigkeit. Man sollte auf Autobahnen hohe Geschwindigkeiten vermeiden, um einen tiefen Streckenverbrauch zu erreichen.",
+              "url":  "assets/js/diagram/speed-consume/speed-consume.php"
+              }
+        ]},
+              {"name": "Konstant Fahren", 
+              "id":  "47",
+              "shortdesc":  "Unterm Strich: Mathematiker fahren konstant. Wunschgeschwindigkeit, Fahrzeit und Verbrauch betrachtet, kann man einen vernünftigen Kompromiss im kontrolliertem Reisetempo begründen.",
+              "url":  "Fahrweise/Geschwindigkeit/Konstanz/Konstanz.php",
+              "children": [
+              {"name": "Vorteile einer konstanten Fahrweise", 
+              "id":  "48",
+              "shortdesc":  "Eine konstante Fahrweise zeigt nun ihren Charme. Beim Wechsel zwischen zwei Tempos z. B. 110 und 130 ist der Verbrauch eher knapp so hoch wie bei 130, die Fahrtzeit aber eher knapp so lang wie die bei konstant 110.",
+              "url":  "Fahrweise/Geschwindigkeit/Konstanz/Durchschnittstempo/Durchschnittstempo.php"
+              },
+              {"name": "Durchschnittstempo-Rechner", 
+              "id":  "49",
+              "shortdesc":  "Mit dem Durchschnittstempo-Rechner können Sie eine Strecke aus mehreren beliebig langen Etappen mit verschiedenen Geschwindigkeiten angeben und das Durchschnittstempo wird berechnet. Nebenbei können Sie für die Geschwindigkeiten den typischen Verbrauch angeben und der Durchschnittsverbrauch wird angezeigt. Sie können das Tool für Ihre Zwecke einstellen, so können Sie berechnen, wie viel Mehrgeschwindigkeiten an Zeit einbringen und Verbrauch kosten.",
+              "url":  "assets/js/diagram/speed-sections/speed-sections.php"
+              },
+              {"name": "Durchschnittstempo-Rechner mit Variation", 
+              "id":  "50",
+              "shortdesc":  "Mit diesem Durchschnittstempo-Rechner können Sie eine Strecke aus mehreren beliebig langen Etappen mit verschiedenen Geschwindigkeiten simulieren, dabei kann eine Variation angegeben werden. Mit Variation ist eine wechselnde Geschwindigkeit gemeint. Bei dieser Simulation ist das Fahrzeug realistisch simuliert. Es beschleunigt und verzögert entsprechend der gegebenen Geschwindigkeitvorgabe. Bei Bedarf schaltet das Fahrzeug in den korrekten Gang um eine bestimmte Mindestdrehzahl nicht zu unterschreiten. Es wird das Durchschnittstempo berechnet, der Verbrauch und die Fahrtzeit. Wenn Sie die Variation auf null stellen, steht es dem Durchschnittstempo-Rechner für konstante Geschwindigkeiten in nichts nach, außer dass er mit realistischen Verbräuchen anstatt mit Verbrauchsvorgaben umgeht. Viel Spaß beim Ausprobieren.",
+              "url":  "assets/js/diagram/speed-sections-sin/speed-sections-sin.php"
+              },
+              {"name": "Fahrgeschwindigkeit-Profil", 
+              "id":  "51",
+              "shortdesc":  "Sieht man die Geschwindigkeit im zeitlichen Verlauf entsteht ein Fahrgeschwindigkeitsprofil. Da für Geschwindigkeit Energie aufgewendet werden muß, vergleiche ich sie hier mit Höhenlinien, die man von Karten von Bergen kennt. Sinnloses auf (schneller) und ab (langsamer) verzerrt Energie. Man würde es vermeiden.",
+              "url":  "Fahrweise/Geschwindigkeit/Konstanz/Geschwindigkeits-Profil/Geschwindigkeit-Profil.php"
+              }
+        ]},
+              {"name": "Die Autobahn", 
+              "id":  "52",
+              "shortdesc":  "Auf der Autobahn scheint die Welt der Verbrauchsphysik noch einfach zu sein: Keine Stopps, stets der höchste Gang. Dies Kapitel wäre schnell abgehakt, wenn die Wirklichkeit nicht völlig anders wäre. Doch keiner hat es uns bisher zu sagen getraut. Willkommen bei diesem wesentlichen Kapitel. Ich stelle Ihnen drei physikalische Effekte vor:",
+              "url":  "Fahrweise/Geschwindigkeit/Autobahn/Autobahn.php",
+              "children": [
+              {"name": "Der Luftwiderstand der Autobahn", 
+              "id":  "53",
+              "shortdesc":  "Wohl das weltweit bekannteste Kulturgut der Deutschen ist die Autobahn. Unter diesem Namen versteht fast jedermann von Australien bis USA das Gegenteil von Tempolimit. Das macht einen schon stolz, oder? Doch was passiert denn am rechten Anschlag unseres Tachometers physikalisch?",
+              "url":  "Fahrweise/Geschwindigkeit/Autobahn/Luftwiderstand/Luftwiderstand.php",
+              "children": [
+              {"name": "Beschleunigung im letzten Gang-Rechner", 
+              "id":  "54",
+              "shortdesc":  "Die Beschleunigung im letzten Gang zeigt das Verhalten des Autos auf der Autobahn. Im letzten Gang kann die höchste Geschwindigkeit gefahren werden. Bei höchster Geschwindigkeit sind jedoch die Reibungskräfte so groß, dass die Motorleistung an ihre Grenzen stoßt. Deswegen sind Beschleunigungen auf höchste Geschwindigkeit sehr kostspielig als auch zeit-intensiv. Das Diagramm zeigt Daten aufgrund simulierter Verhältnisse und gibt den Verbrauch als auch die Beschleunigung eines typischen Kraftwagens realistisch wieder. Haben Sie viel Freude beim Ausprobieren der Parameter.",
+              "url":  "assets/js/diagram/speed-accel-full/speed-accel-full.php"
+              }
+        ]},
+              {"name": "Massenbeschleunigung beim Drängeln", 
+              "id":  "55",
+
+              "url":  "Fahrweise/Geschwindigkeit/Autobahn/Massenbeschleunigung/Massenbeschleunigung.php"
+              },
+              {"name": "Durchschnittstempo des Rasers", 
+              "id":  "56",
+              "shortdesc":  "Das Durchschnittstempo ist von relevanten Einfluss auf den Verbrauch. Man wählt eine Reisegeschwindigkeit und fährt nicht schneller.",
+              "url":  "Fahrweise/Geschwindigkeit/Autobahn/Durchschnitttempo/Durchschnitttempo.php"
+              },
+              {"name": "Rasen kostet-Rechner", 
+              "id":  "57",
+              "shortdesc":  "Schnelles Fahren führt zu höheren Verbrauch. Nicht nur aufgrund der höheren Reibungen bei hohen Geschwindigkeiten, sondern vor allem wegen immer wiederkehrenden Tempowechsel. Bei jedem Tempowechsel muss wieder erneut kinetische Energie in das Fahrzeug investiert werden. Anders gesagt, muss man lange mit Vollgas beschleunigen, bis man wieder auf der gewünschten Geschwindigkeit ist. Somit führt schnelles Fahren zu einem deutlich höheren Verbrauch als langsames Fahren. Bei langsamen Fahren fährt man beruhigter und entspannter. Es sind auch weniger Tempowechsel erforderlich, so dass der Motor bei seinem Verbrauchsoptimum betrieben wird. Der Rechner stellt schnelles Fahren gegen langsames Fahren dar, und berechnet mit Kennwerten den Zeitgewinn bzw. den Zeitverlust und den Verbrauch und die entstehenden Kosten bei gewisser Kilometerzahl.",
+              "url":  "assets/js/physics/RasenKostet/RasenKostet-Rechner.php"
+              },
+              {"name": "Den Vorausfahrenden aussuchen", 
+              "id":  "58",
+              "shortdesc":  "Vielleicht würde Schumi nun schmunzeln, denn ich will zum Windschatten vordringen. Sieht man ein vorausfahrendes Fahrzeug als ein Hindernis im Wind, so befindet man sich dahinter in einer Zone, in der der Wind nicht mit der vollen Wucht aufprallt. Das rechnet uns der Luftwiderstand an. Bedeutsam wird das, wenn der Wind die dominante Rolle der Fahrwiderstände übernimmt, beim Auto ab etwa 75 km/h. Die mögliche Ersparnis bei 100 liegt bei etwa 15%.",
+              "url":  "Fahrweise/Geschwindigkeit/Autobahn/Vorausfahrende/Vorausfahrende.php",
+              "children": [
+              {"name": "Drei Größen für den Spareffekt", 
+              "id":  "59",
+              "shortdesc":  "Der Windschatten wirkt eingeschränkt bei diesen Bedingungen.",
+              "url":  "Fahrweise/Geschwindigkeit/Autobahn/Vorausfahrende/Spareffekt/Spareffekt.php"
+              },
+              {"name": "Das Fahren in der Kolonne", 
+              "id":  "60",
+              "shortdesc":  "Sollte man sich sein Tempo diktieren lassen? Muss man überholen, wenn jemand 5 km/h langsamer ist? Ist man im Auto nicht schon anonym genug? Das Stück, das Sie wegen 5 km/h Differenz gut machen, kostet Sie auf 200 km gesehen kaum eine Minute. Dafür können Sie aber allen im Auto ein Eis spendieren, oder dem/der Vorausfahrenden.",
+              "url":  "Fahrweise/Geschwindigkeit/Autobahn/Vorausfahrende/Kolonnen/Kolonnen.php"
+              }
+        ]},
+              {"name": "Der Unterschied zwischen Wollen und Fahren", 
+              "id":  "61",
+              "shortdesc":  "Nun darf ich doch diese unglaubliche Geschichte erzählen:",
+              "url":  "Fahrweise/Geschwindigkeit/Autobahn/TankenWirkung/TankenWirkung.php"
+              },
+              {"name": "Elefantenrennen", 
+              "id":  "62",
+              "shortdesc":  "Auf der Arena der Autobahn entzündet Zorn, sobald die Chauffeure dicker LKW auf der linken Spur zum Elefantenrennen antreten. Dabei kann sich jeder Schöneres vorstellen, als stundenlang demselben stinkenden Schweinetransporter hinterherzufahren. Und welchen leistungsstarken ACTROS würde es nicht stinken, stundenlang eine Gurke zu verfolgen, die keinen Hügel ohne Anlauf bezwingt.",
+              "url":  "Fahrweise/Geschwindigkeit/Autobahn/ElefantenRennen/ElefantenRennen.php"
+              }
+        ]},
+              {"name": "Länger fahren, weniger Arbeiten", 
+              "id":  "63",
+              "shortdesc":  "In Ordnung, ich kapiere schon: Sie haben sich dieses tolle Auto nicht gekauft, um 100 zu fahren. Und Sie wollen schneller ans Ziel kommen, weil es Ihnen das wert ist. Sehen wir es doch wirtschaftlich oder rein finanziell. Lassen Sie mich bitte dieses Beispiel vortragen:",
+              "url":  "Fahrweise/Geschwindigkeit/WirtschaftlicheEffizienz/WirtschaftlicheEffizienz.php"
+              },
+              {"name": "Reisegeschwindigkeit", 
+              "id":  "64",
+              "shortdesc":  "Wählen Sie eine Reisegeschwindigkeit auf Fernstrecken bewusst.",
+              "url":  "Fahrweise/Geschwindigkeit/Reisegeschwindigkeit/Reisegeschwindigkeit.php"
+              },
+              {"name": "Eine Welt mit 90 km/h", 
+              "id":  "65",
+              "shortdesc":  "Das Tempothema ist so entscheidend, dass ich noch etwas zum Besten gebe, auch wenn es fernab der Benzinsicht ist: In einer Welt, in der man 90 fährt, ...",
+              "url":  "Fahrweise/Geschwindigkeit/WeltMit90/WeltMit90.php",
+              "children": [
+              {"name": "keine Fahrten unter Zeitdruck", 
+              "id":  "66",
+              "shortdesc":  "keine Fahrten unter Zeitdruck (lieber früher losfahren!). gesundes Selbstbewusstsein (andere ohne Gram überholen lassen).",
+              "url":  "Fahrweise/Geschwindigkeit/WeltMit90/HektikContra/HektikContra.php"
+              }
+        ]}
+        ]},
+              {"name": "Verzögern", 
+              "id":  "67",
+              "shortdesc":  "Alle Tipps bisher, konsequent angepackt, drehen Sie den Vebrauchshahn vielleicht um 20 % zu. Die nächsten Tipps drosseln den Benzinverzehr um weitere 20 %. Phase 2: Wenn man kein Gas gibt.",
+              "url":  "Fahrweise/Gleiten/OhneGas.php",
+              "children": [
+              {"name": "Bremsen", 
+              "id":  "68",
+              "shortdesc":  "Beim Bremsen wird Energie verbrannt. Die Bremsen sind ein wichtiges Bauteil am Fahrzeug aufgrund der Verkehrsicherheit. Zum Sprit Sparen empfiehlt es sich, anstatt zu Bremsen vorzeitig vom Gas zu gehen, wenn es die Verkehrssicherheit zulässt. Lernen Sie mit dem Bremsen sparsam umzugehen.",
+              "url":  "Fahrweise/Gleiten/Bremsen/Bremsen.php"
+              },
+              {"name": "Motorbremse", 
+              "id":  "69",
+              "shortdesc":  "Wo ist der Motor, der ganz frei von MotorSprit läuft? Er ist da, wenn man im Gang mit ausreichend Mindestdrehzahl bleibt, kein Gas gibt und die Spritzufuhr durch die Schubabschaltung automatisch völlig abgedrosselt wird. Seit den Achzigern kann man davon ausgehen, dass jedes Fahrzeug damit ausgestattet ist.",
+              "url":  "Fahrweise/Gleiten/Motorbremse/Motorbremse.php",
+              "children": [
+              {"name": "Wie tief geht die Schubabschaltung?", 
+              "id":  "70",
+              "shortdesc":  "Gänge nach unten ausfahren ist nur eine spriteffiziente Bremsart, so lange der Motor die Schubabschaltung ernst nimmt. Manche Autos machen da Unterschiede:",
+              "url":  "Fahrweise/Gleiten/Motorbremse/SchubabschaltungsDrehzahl/SchubabschaltungsDrehzahl.php"
+              },
+              {"name": "In die Motorbremse schalten", 
+              "id":  "71",
+              "shortdesc":  "Fängt man die Motorbremse im hohen Gang an, ist die Spareffizienz somit in ihrem Zenit. Der höchste Gang bremst am wenigsten von allen Fahrgängen. Das bringt Strecke, auch wenn das Auto langsamer wird.",
+              "url":  "Fahrweise/Gleiten/Motorbremse/Einschalten/Einschalten.php"
+              },
+              {"name": "Wie geht Motorbremse fahren?", 
+              "id":  "72",
+              "shortdesc":  "Je weiter uns die Motorbremse bewegt, umso größer ihr Nutzen. Es ist erstaunlich, wie weit das Auto nur mit Motorbremse rollen würde. Wenn Sie, bevor Sie normalerweise zu bremsen beginnen würden, nur vom Gas gehen, erfahren Sie es.",
+              "url":  "Fahrweise/Gleiten/Motorbremse/Fahren/Fahren.php"
+              }
+        ]},
+              {"name": "Der Leerlaufgang", 
+              "id":  "73",
+              "shortdesc":  "Manchen ist vielleicht noch gar nicht aufgefallen, dass zwischen den Gängen auch ein Leerlauf oder auch „Freilauf“ genannt schlummert — ja es gibt einen und es ist auch ein Gang. Eine tolle Fähigkeit Ihres Autos sehen Sie erst im Leerlauf: Während der Motor zur niedrigsten Drehzahl fährt — mit minimalem Verbrauch — drehen sich die Räder ohne jede Zusatzbremswirkung frei. Es ist jahrelanger Automobiltechnik und Straßenbau zu verdanken, dass unsere Autos auf unseren Straßen nahezu ideal „segeln“ können. Man kann es genießen, wenn man bei 90 den Gang rausnimmt.",
+              "url":  "Fahrweise/Gleiten/Leerlaufgang/Leerlaufgang.php",
+              "children": [
+              {"name": "Warum Leerlauf?", 
+              "id":  "74",
+              "shortdesc":  "Der Leerlauf verbraucht eine gewisse Menge Benzin solange der Motor die Leerlaufdrehzahl hält. In Relation zur Fahrgeschwindigkeit muss dies aber nicht viel sein.",
+              "url":  "Fahrweise/Gleiten/Leerlaufgang/Warum/Warum.php"
+              },
+              {"name": "Kann man im Leerlauf fahren?", 
+              "id":  "75",
+              "shortdesc":  "Warum kommt das nicht in der Fahrschule",
+              "url":  "Fahrweise/Gleiten/Leerlaufgang/Situationen/Situationen.php"
+              },
+              {"name": "Wo können wir rollen?", 
+              "id":  "76",
+              "shortdesc":  "Wir sitzen hier nicht auf dem Fahrrad. Auch wenn das Gefälle schon längst genügen würde, um ohne Temposchwund zu rollen, erkennen wir es gar nicht. Und nicht überall verrät uns der rot blinkende Funkturm neben der Autobahn, dass es ab jetzt runter geht.",
+              "url":  "Fahrweise/Gleiten/Leerlaufgang/WoErkennen/WoErkennen.php"
+              },
+              {"name": "Bergisches Land", 
+              "id":  "77",
+              "shortdesc":  "Bergland hört sich eigentlich nach viel Verbrauch an und ist es auch. Aber wo es hinauf geht, geht es auch irgendwann hinunter (alter Fahrradfahrerspruch)! Zum Beispiel lässt sich nach dem Tauerntunnel in Richtung Deutschland auf 10 km Länge komplett runterrollen und am Ende kann man sogar Tempoüberschuss mitnehmen. Voraussetzung ist natürlich, dass Sie das auch ausnutzen und nicht mit Gang oder Motorbremse hinunter fahren. Vor jeder Straßenkuppe mit anschließend starkem Gefälle können Sie generell segeln, da der zunächst entstehende Geschwindigkeitseinbruch nach der Kuppe sofort ohne Gas wieder kompensiert wird.",
+              "url":  "Fahrweise/Gleiten/Leerlaufgang/Bergland/Bergland.php"
+              },
+              {"name": "Leerlauf bei kaltem Motor", 
+              "id":  "78",
+              "shortdesc":  "So lange der Benzin- oder Dieselmotor noch kalt ist, sollte der Leerlaufbetrieb durch Motorbremse ersetzt werden.",
+              "url":  "Fahrweise/Gleiten/Leerlaufgang/Leerlauf-KalterMotor/Leerlauf-KalterMotor.php"
+              },
+              {"name": "Bei schwachem Gefälle öffne man ein Leerlauffenster", 
+              "id":  "79",
+              "shortdesc":  "Ist es eben wie am Strand, können wir im Leerlauf nicht fahren. Reifenreibung und Fahrtwind nagen das Tempo an und eigentlich wollen wir doch unsere Reisegeschwindigkeit behalten.",
+              "url":  "Fahrweise/Gleiten/Leerlaufgang/GefaelleLeicht/GefaelleLeicht.php"
+              },
+              {"name": "Bei Konstantfahren vermeide man überflüssige Gasbewegungen", 
+              "id":  "80",
+              "shortdesc":  "Der Versuch zeigt das konstante Tempo halten wie ein Tempomat, spart mehr als das Pendeln zwischen zwei Gasstellungen.",
+              "url":  "Fahrweise/Gleiten/Leerlaufgang/Gasbewegungen/Gasbewegungen.php"
+              },
+              {"name": "Leerlaufende Fahrsituationen auch ohne Gefälle", 
+              "id":  "81",
+              "shortdesc":  "Leerlauf bei niedrigen Geschwindigkeiten nutzen und viel Zeit wenig verbrauchen.",
+              "url":  "Fahrweise/Gleiten/Leerlaufgang/GefaelleOhne/GefaelleOhne.php"
+              },
+              {"name": "Was gibt es noch zum Leerlauf zu sagen?", 
+              "id":  "82",
+              "shortdesc":  "Fahren im Leerlauf ist entspannend. Das Schielen auf den Tacho ist nicht so wichtig. Es fühlt sich ungewohnt an, aber wenn man den rechten Fuß, der im Leerlauf ohne Aufgabe ist, über der Bremse hält, ist man schneller bremsbereit.",
+              "url":  "Fahrweise/Gleiten/Leerlaufgang/Fahren/Fahren.php"
+              },
+              {"name": "Leerlauf im Standard-Automatikgetriebe?", 
+              "id":  "83",
+              "shortdesc":  "So ein Leerlaufgang ist schon attraktiv. Was soll ich nun den Automatikfahrern sagen? Manche Bedienungsanleitungen verbieten es. Manche Fahrer nutzen es aber trotzdem schon seit Jahrzehnten intensiv. Ich sehe 3 mögliche Ausprägungen.",
+              "url":  "Fahrweise/Gleiten/Leerlaufgang/Automatik/Automatik.php"
+              }
+        ]},
+              {"name": "Verzögerung im Leerlauf, mit Motorbremse und mit Bremsen", 
+              "id":  "84",
+              "shortdesc":  "Es gibt verschiedene Arten zu Verzögern. Man kann verfrüht vom Gas gehen, man kann auf die Bremsstelle zufahren und dann erst bremsen, oder man kann in den Leerlauf schalten und bis zur Stopstelle ausrollen. Die Fahrt mit Leerlauf wird nur unter besonderen Umständen empfohlen. Einerseits bremst sie andere aus, anderseits ist in vielen Fällen die Motorbremse ihr überlegen. Beispielsweise sind bei hohen Geschwindigkeiten die Bremskräfte aufgrund der Luftreibung so hoch, dass die Motorbremse kaum ins Gewicht fällt. Bei geringen Geschwindigkeiten bedarf die Motorbremse jedoch einen hohen Gang, deswegen wird dir bremswirkung dramatisch größer und der Spareffekt geringer. Dort lohnt sich der Leerlauf eher. Die Wahl wird vor allem von den hinterherfahrenden Verkehr vorweg genommen, man sollte niemanden im Weg steht. Anders ergibt sich die Lage, wenn vorne eine rote Ampel ist, die nicht bereit ist auf grün zu schalten. Dann gewinnt man durch das Anschleichen Zeit und kann mit Resttempo über die Ampel fahren.",
+              "url":  "assets/js/diagram/speed-accel-idle/speed-accel-idle.php"
+              },
+              {"name": "Vorausschauend Fahren", 
+              "id":  "85",
+              "shortdesc":  "Kann Gas geben für die Katz sein? Kann gegebenes Gas vor die Hunde gehen?",
+              "url":  "Fahrweise/Gleiten/Vorausschauend/Vorausschauend.php",
+              "children": [
+              {"name": "Surfen auf dem Tempoprofil", 
+              "id":  "86",
+              "shortdesc":  "Das Tempo beibehalten und die Antriebskräfte mitsamt dem Verbrauch wegschalten.",
+              "url":  "Fahrweise/Gleiten/Vorausschauend/TempoSurfen/TempoSurfen.php"
+              },
+              {"name": "Geschwindigkeit weit nutzen", 
+              "id":  "87",
+              "shortdesc":  "Schön auf dem Gas bleiben. Vor dem Hindernis in das Bremspedal treten. Stopp! Wenn wir das Hindernis schon längst erwartet haben, warum müssen wir dann bis zum Hindernis den Fuß aufs Gas drücken und dort in die Eisen steigen, wie ein gehetzter Stadtbusfahrer?",
+              "url":  "Fahrweise/Gleiten/Vorausschauend/TempoWeitNutzen/TempoWeitNutzen.php"
+              },
+              {"name": "Geschwindigkeit mit Bedacht erhöhen", 
+              "id":  "88",
+              "shortdesc":  "Der Verbrauch in der Stadt ist stark erhöht. Doch lösen wir uns vom bequemen Vorurteil, dass die Schuld am Mehrverbrauch auf die Hindernisse lenkt: Benzin wird nicht beim Bremsen verbraucht, sondern beim Beschleunigen vorher.",
+              "url":  "Fahrweise/Gleiten/Vorausschauend/TempoErhoehen/TempoErhoehen.php"
+              },
+              {"name": "Fazit des Vorausschauenden", 
+              "id":  "89",
+              "shortdesc":  "Nur keine halben Sachen: Es hilft nicht besonders, ab und an mal in den Leerlauf runter zu schalten. Um viel zu sparen, muss man schon bei niedrigen Geschwindigkeiten sensibel für die kleinen Synergien sein.",
+              "url":  "Fahrweise/Gleiten/Vorausschauend/Fazit/Fazit.php"
+              },
+              {"name": "Ohne Abstand sieht man keine Möglichkeit", 
+              "id":  "90",
+              "shortdesc":  "Wundern Sie sich manchmal, warum die Autoschlange vor Ihnen plötzlich so tierisch schleichen muss, bloß weil vorne einer abbiegt und dafür ein bisschen bremsen muss? Antwort: Weil keiner Abstand hält und auch seine Abbiegeabsicht nicht schon unmittelbar nach der vorherigen Einmündung anzeigt, so dass die Nachfolgenden auch jetzt noch Gelegenheit hätten, ohne zu bremsen ihren Abstand zu vergrößern oder auf eine andere Spur zu wechseln.",
+              "url":  "Fahrweise/Gleiten/Vorausschauend/Abstand/Abstand.php"
+              },
+              {"name": "Roten Ampeln begegnen", 
+              "id":  "91",
+              "shortdesc":  "So kühn ich auf die rote Ampel auch zufahre und so besessen ich davor in die Eisen steige, die städtischen Lichtorgeln lassen sich einfach nicht von mir beeindrucken: Sie werden keinen Moment früher grün.",
+              "url":  "Fahrweise/Gleiten/Vorausschauend/Ampel/Begegnen/Begegnen.php",
+              "children": [
+              {"name": "Etwas Resttempo bleibt", 
+              "id":  "92",
+              "shortdesc":  "Je mehr Restgeschwindigkeit man über die Ampel retten kann, desto mehr von der alten Energie bleibt erhalten. Die Bewegungsenergie wächst quadratisch mit dem Tempo. Deswegen ist eigentlich nur noch wenig Bewegungsenergie bei nur gerettetem Schleichtempo übrig, aber wenn man dadurch den Spritjunkie 1. Gang aussparen kann, dann lohnt es sich. Ein Fahrstil, der dazu führt, nicht an jeder roten Ampel stehen bleiben zu müssen, macht Freude beim Zuschauen und Mitfahren.",
+              "url":  "Fahrweise/Gleiten/Vorausschauend/Ampel/Resttempo/Resttempo.php"
+              },
+              {"name": "Goldener Mittelweg des Bremsens", 
+              "id":  "93",
+              "shortdesc":  "Doch ein guter Bremsverlauf vor einer Ampel, deren zeitlichen Verlauf man nicht kennt, ist eine Gratwanderung:",
+              "url":  "Fahrweise/Gleiten/Vorausschauend/Ampel/Mittelweg/Mittelweg.php"
+              },
+              {"name": "Ampelpoker: Ist da hinten grün?", 
+              "id":  "94",
+              "shortdesc":  "Doch beim Poker mit den Ampeln spielen manche mit ganz verdeckten Karten. Fies sind Ampeln, deren Farben man erst kurz vorher sieht. Eine farbliche Eingebung wäre hier natürlich Trumpf. Bei Rot könnte man früher passen, hätte weniger Gas eingesetzt und damit weniger stark gebremst. Welcher Schafkopf würde beim Black Jack noch eine Karte ziehen, wenn er weiß, dass die meisten passenden bereits gezogen wurden? Letztendlich verbrennt Benzin nicht beim Bremsen, sondern beim Beschleunigen und Fahren davor.",
+              "url":  "Fahrweise/Gleiten/Vorausschauend/Ampel/Ampelpoker/Ampelpoker.php"
+              },
+              {"name": "Grüne Wellen im Lichtermeer der Stadt", 
+              "id":  "95",
+              "shortdesc":  "Eine andere Frage: Stehen Sie jeden Tag an der gleichen Ampel? Ich auch. Das liegt daran, dass manche Ampeln zeitlich miteinander abgestimmt sind. Da bringt kein Gas der Welt was, wenn die Ampel so im Takt läuft, dass man immer bei Rot ankommt.",
+              "url":  "Fahrweise/Gleiten/Vorausschauend/Ampel/GrueneWellen/GrueneWellen.php"
+              },
+              {"name": "Es bleiben blöde Ampeln", 
+              "id":  "96",
+              "shortdesc":  "Trotzdem, wir alle kennen sie: Es gibt auch blöde Ampeln. Ampeln, die scheinbar sinnlos rot schalten. Ampeln, die den größten Verkehrsfluss willkürlich blockieren oder auch überflüssige Ampeln.",
+              "url":  "Fahrweise/Gleiten/Vorausschauend/Ampel/BloedeAmpeln/BloedeAmpeln.php"
+              }
+        ]},
+              {"name": "Motor abschalten?", 
+              "id":  "97",
+              "shortdesc":  "Es gibt Orte, an denen lässt man das Auto auch mal eiskalt laufen, während man einkaufen ist. Warum? Damit die Klimaanlage die Luft kalt gehalten hat, wenn man wieder einsteigt. Dort muss das Benzin extrem billig sein. Denn auch im Stand verbraucht der Motor saftig Benzin. Etwa 1,0 Liter pro Stunde, mit eingeschalteter Klimaanlage noch weit mehr. Und so spart es Benzin, wenn an längeren Stopps der Motor ruht. Der Verbrauch auf einer 5 km langen Strecke wächst in einer einzigen Minute Standzeit mit laufendem Motor um 0,5 l/100km.",
+              "url":  "Fahrweise/Gleiten/Vorausschauend/MotorAbschalten/MotorAbschalten.php",
+              "children": [
+              {"name": "Motor immer gleich ausschalten?", 
+              "id":  "98",
+              "shortdesc":  "Doch soll man den Motor immer sofort abschalten? Da gibt es doch anderseits auch die Batterie und den Anlasser, die beim Wiederstarten des Motors verschleißen könnten. Man will ja nicht, dass der Anlasser in die ewigen Jagdgründe startet. Rechnet man Benzinverbrauch gegen mögliche frühere Austausch- sowie Reparaturkosten, so geht man davon aus, dass sich Ausschalten auf jeden Fall gelohnt hat, wenn der Motor ca. 20 Sekunden aus ist. Vielleicht sind es auch noch weniger.",
+              "url":  "Fahrweise/Gleiten/Vorausschauend/MotorAbschalten/ImmerGleich/ImmerGleich.php"
+              },
+              {"name": "Ampel grün, weiter geht’s!", 
+              "id":  "99",
+              "shortdesc":  "So, und dann kann an roten Ampeln ruckzuck der Moment kommen, an dem locker sein weit her ist. Die rote Ampel wird gelb — zack grün. Hinter einem eine Schlange rauchender Fahrzeuge und vielleicht auch rauchender Köpfe. Schnell Zündschlüssel umdrehen. Motor, spring schnell an! Gang rein, nix wie weg.",
+              "url":  "Fahrweise/Gleiten/Vorausschauend/MotorAbschalten/Anfahren/Anfahren.php"
+              },
+              {"name": "Motor während der Fahrt nicht abschalten!", 
+              "id":  "100",
+
+              "url":  "Fahrweise/Gleiten/Vorausschauend/MotorAbschalten/BeiFahrt/BeiFahrt.php"
+              }
+        ]}
+        ]}
+        ]},
+              {"name": "Situationen", 
+              "id":  "101",
+              "shortdesc":  "Beim Autofahren begibt man sich in verschiedene Situationen. Nun bewegen wir uns schrittweise durch verschiedene Stellungen und schauen uns nach Sparpotentialen um.",
+              "url":  "Fahrweise/Situationen/Situationen.php",
+              "children": [
+              {"name": "Freiheiten im Stau", 
+              "id":  "102",
+              "shortdesc":  "Im endlos erscheinenden Stop-and-go-Stau verbraucht man mehr als bei Tempo 200 auf der Autobahn. Eine große Menge Sprit für das Warten, bis man vom Fleck kommt. Und eine große Menge für das Schließen der frei gewordenen 5-m-Lücke.",
+              "url":  "Fahrweise/Situationen/Stau/Stau.php"
+              },
+              {"name": "Gleitzeiten können Pendlerstaus umgehen", 
+              "id":  "103",
+              "shortdesc":  "In Stoßzeiten kann man schnell im Stau kleben. Dort verrinnt nicht nur Zeit, sondern auch eine Lache Sprit. Alle Benzinsparmaßnahmen sind dann höchstens ein Tropfen auf dem heißen Auspuff.",
+              "url":  "Fahrweise/Situationen/Pendlerzeit/Pendlerzeit.php"
+              },
+              {"name": "Denke an die Anderen!", 
+              "id":  "104",
+              "shortdesc":  "Denjenigen, die nicht nur wollen, dass ihr Geldbeutel lacht, sondern auch die Umwelt, offenbart sich eine weitere Dimension. Haben Sie schon überlegt, wie viel ein Bus oder ein LKW an Sprit verbraucht, wenn er umsonst abbremsen muss?",
+              "url":  "Fahrweise/Situationen/Mitmenschen/Mitmenschen.php"
+              },
+              {"name": "Mit dem Verkehr fahren:", 
+              "id":  "105",
+              "shortdesc":  "Schätzen Sie ab einem gewissen Verkehrsaufkommen besonders auf Autobahnen die Durchschnittsgeschwindigkeiten der einzelnen Fahrspuren ein und nähern Sie Ihre Geschwindigkeit entsprechend an.",
+              "url":  "Fahrweise/Situationen/Autobahnkolonnen/Autobahnkolonnen.php"
+              },
+              {"name": "Kreuzungen freihalten", 
+              "id":  "106",
+              "shortdesc":  "Eine Selbstverständlichkeit, doch in der Praxis eine schlimme Sache: Das Freihalten von Kreuzungen. Bevor man eine Kreuzung befährt, muss man sicherstellen, dass man sie auch komplett überqueren kann, um den querenden Verkehr nicht zu behindern.",
+              "url":  "Fahrweise/Situationen/Kreuzungen/Freihalten/KreuzungenFreihalten.php"
+              },
+              {"name": "Nasse Straßen", 
+              "id":  "107",
+              "shortdesc":  "Nasse Straßen sind in Deutschland immer ein Thema. Unsere türkischen Freunde sprechen gerne vom „Kartoffelwetter. Bei nasser Fahrbahn bilden sich auf den meist belasteten Fahrspuren zwar keine Kartoffeln, aber große Pfützen. Man kann sich vorstellen, dass meine 205 mm breiten Reifen literweise Wasser wegzuschaufeln haben, bis sie sich runter in den Boden gestochen haben. Und das kostet Kartoffeln. Pardon, Kraft.",
+              "url":  "Fahrweise/Situationen/StrasseNass/StrasseNass.php"
+              },
+              {"name": "Geschicktere Wege benutzen", 
+              "id":  "108",
+              "shortdesc":  "Je länger der Weg, desto mehr Benzin geht drauf. Normalerweise. Es gibt aber auch kleine Umwegchen, die Benzin sparen:",
+              "url":  "Fahrweise/Situationen/Wegwahl/Wegwahl.php"
+              },
+              {"name": "Spare Stopps", 
+              "id":  "109",
+              "shortdesc":  "Wenn man den Benzinverbrauch eines Kraftwagens genau verfolgt, bemerkt man schnell, dass vor allem das Anfahren und das Rangieren bei geringen Geschwindigkeiten ins Gewicht fallen — kurz auch Kurzstreckenfahrten genannt. Vielleicht kann man da was dagegen tun.",
+              "url":  "Fahrweise/Situationen/SpareStopps/SpareStopps.php"
+              },
+              {"name": "Parkplatz suchen", 
+              "id":  "110",
+              "shortdesc":  "Das Kapitel „methodisch neigt sich nun dem Ende. Kommen wir zu dem, was am Ende jeder Fahrt Thema wird.",
+              "url":  "Fahrweise/Situationen/Parken/Parkplatz/Parkplatz.php",
+              "children": [
+              {"name": "Rechts Parken", 
+              "id":  "111",
+              "shortdesc":  "Kurz mal Anhalten und an der Tankstelle eine Zeitung holen ohne großartige Parkplatzsuche.",
+              "url":  "Fahrweise/Situationen/Parken/ParkeRechts/ParkeRechts.php"
+              },
+              {"name": "Der Seitenstraßen-Parker", 
+              "id":  "112",
+              "shortdesc":  "Morgens in der Stadt: Die Tankstelle ist direkt an der Ampelkreuzung zweier Straßen. So zentral, dass egal vorher man kommt, man auf eine Lücke zwischen dem entgegenkommenden Verkehr angewiesen ist, damit man zu ihr rein fahren kann. Raus kommt man erst, wenn die Ampel günstig steht.",
+              "url":  "Fahrweise/Situationen/Parken/ParkeSeitenstrasse/ParkeSeitenstrasse.php"
+              },
+              {"name": "Stadtbummel mit Park+Ride", 
+              "id":  "113",
+              "shortdesc":  "Nutze Park+Ride und reduziere Weglängen im Stau und lästige Parkplatzsuche.",
+              "url":  "Fahrweise/Situationen/Parken/ParkAndRide/ParkAndRide.php"
+              },
+              {"name": "Parkplatzmarkierungen", 
+              "id":  "114",
+              "shortdesc":  "Wenn Sie Betreiber eines Parkplatzes sind, können Sie diesen auch mit der geeigneten Markierung optimieren.",
+              "url":  "Fahrweise/Situationen/Parken/ParkplatzMarkierungen/ParkplatzMarkierungen.php"
+              },
+              {"name": "Vorbereitung auf das Einparken", 
+              "id":  "115",
+              "shortdesc":  "Einparken einfach gemacht mit entsprechender Vorbereitung.",
+              "url":  "Fahrweise/Situationen/Parken/VorbereiteParken/VorbereiteParken.php"
+              },
+              {"name": "Parken", 
+              "id":  "116",
+              "shortdesc":  "Parken ist Anhalten. Einen Parkplatz suchen und Parken dauert Zeit.",
+              "url":  "Fahrweise/Situationen/Parken/SucheParkplatz/SucheParkplatz.php",
+              "children": [
+              {"name": "Querparkplätze", 
+              "id":  "117",
+              "shortdesc":  "Auch wenn die meisten Parkplätze noch nicht wie oben beschrieben markiert sind, können auch sie dennoch so benutzt werden:",
+              "url":  "Fahrweise/Situationen/Parken/QuerparkplatzBilden/QuerparkplatzBilden.php"
+              },
+              {"name": "Suche einen Parkplatz schnell", 
+              "id":  "118",
+              "shortdesc":  "Einen Parkplatz ergattern, erfordert Fahrzeit und Fahrkosten.",
+              "url":  "Fahrweise/Situationen/Parken/SucheParkplatzSchnell/SucheParkplatzSchnell.php"
+              },
+              {"name": "Den Motor abstellen", 
+              "id":  "119",
+              "shortdesc":  "Direkt nach dem Einparkvorgang den Motor abstellen und damit den Verbrauch stoppen.",
+              "url":  "Fahrweise/Situationen/Parken/BeendeParken/BeendeParken.php"
+              }
+        ]}
+        ]},
+              {"name": "Der Verbrauchsherd - kalter Motor", 
+              "id":  "120",
+              "shortdesc":  "Mit kaltem Motor haben wir begonnen, und dieses Kapitel möchte ich mit ihm auch schließen. Sollte der Motor am Fahrtende immer noch nicht warm sein, handelt es sich um eine Kurzstrecke.",
+              "url":  "Fahrweise/Situationen/KalterMotor/KalterMotor.php"
+              }
+        ]}
+        ]},
+              {"name": "Fahrten", 
+              "id":  "121",
+              "shortdesc":  "Merkwürdig: Haben Sie an goldenem Kraftstoff gespart, dämmert Ihnen der Erfolg, wenn sich der Tankzeiger in Rötliche neigt, beim Anblick des Kilometerzählers. Vermeiden Sie aber nutzlose oder kurze Fahrten und müssen dadurch eine Woche später tanken, fällt es kaum auf. Dabei bringt Sie das Einsparen von Fahrten wirtschaftlich weiter voran als alles Benzin sparen.",
+              "url":  "Fahrten/FahrtenSparen.php",
+              "children": [
+              {"name": "Gesparte Fahrt", 
+              "id":  "122",
+              "shortdesc":  "Klar wird jeder dafür einstehen, dass seine Fahrte mit dem Auto höchstnotwendig sind. Doch wer bereit ist etwas Umzudenken wir neue Möglichkeiten kennenlernen.",
+              "url":  "Fahrten/GesparteFahrt/GesparteFahrt.php"
+              },
+              {"name": "Sprint in die Arbeit", 
+              "id":  "123",
+              "shortdesc":  "Ich muss aufhören zu meckern. Der Grund für diese Seite wurde geboren, als sich mein Führerschein für einige Zeit von mir verabschiedete. Bald fand ich nämlich heraus, dass Inline-Skates ein super Autoersatz sind. Ich merkte, wie sehr ich Back to the roots (dt: Zurück zu den Wurzeln) genießen konnte. Morgendliche Arbeitssprints in 2 verschiedenen Dimensionen.",
+              "url":  "Fahrten/Arbeitssprints/Arbeitssprints.php"
+              },
+              {"name": "Warum Fahrten sparen? In 4 Akten", 
+              "id":  "124",
+
+              "url":  "Fahrten/Vorteile/Vorteile.php",
+              "children": [
+              {"name": "Akt 1: Der Schritt zur Mobilität", 
+              "id":  "125",
+              "shortdesc":  "Wie ich zum Auto kam.",
+              "url":  "Fahrten/Vorteile/Akt1-Schritt-zur-Mobilitaet.php"
+              },
+              {"name": "Akt 2: Lebensgefühl von Autoinsassen", 
+              "id":  "126",
+
+              "url":  "Fahrten/Vorteile/Akt2-Lebensgefuehl.php"
+              },
+              {"name": "Akt 3: Gibt es Sternbilder im Auto?", 
+              "id":  "127",
+
+              "url":  "Fahrten/Vorteile/Akt3-Sternbilder.php"
+              },
+              {"name": "Akt 4: Das gute Auto und das liebe Geld", 
+              "id":  "128",
+
+              "url":  "Fahrten/Vorteile/Akt4-Auto-Geld.php"
+              }
+        ]},
+              {"name": "Autokosten-Rechner", 
+              "id":  "129",
+              "shortdesc":  "Ein Auto zu bewegen kostet Geld. Wenn Sie erwägen Ihr Auto abzuschaffen hilft Ihnen diese Tabelle bei der Motivation. Es gibt verschiedene Kostenposten, die zu erwägen sind. Mit diesem Rechner können Sie die Kostenposten auf Ihre Bedürfnisse einstellen, dann können Sie abschätzen wie viel Geld sie sparen können.",
+              "url":  "assets/js/physics/Autokosten/Autokosten.php"
+              },
+              {"name": "Die Welt ohne Auto", 
+              "id":  "130",
+
+              "url":  "Fahrten/OhneAuto/OhneAuto.php",
+              "children": [
+              {"name": "Individualverkehrsmittel", 
+              "id":  "131",
+              "shortdesc":  "Verschiedene Verkehrsmittel mit verschiedenen Möglichkeiten und Freiheiten.",
+              "url":  "Fahrten/OhneAuto/Individualverkehrsmittel.php"
+              },
+              {"name": "Die Möglichkeiten", 
+              "id":  "132",
+              "shortdesc":  "Die anfängliche Geschichte über den Sprint zur Arbeit hat zu spüren gegeben, dass der Trumpf der Autoalternativen nicht einmal bei den Kosten liegt, sondern beim Fühlen und Erleben. Die Gefühle, machen den Unterschied.",
+              "url":  "Fahrten/Moeglichkeiten/Moeglichkeiten.php"
+              },
+              {"name": "Die öffentlichen Verkehrsmittel", 
+              "id":  "133",
+              "shortdesc":  "Die öffentlichen Verkehrsmittel sind die stressfreisten aber wegen der Wartezeiten und dem Umsteigen auch gleichzeitig oft auch die langwierigsten. Vielerorts dauert jedoch das Parkplatzsuchen sogar länger als die Bustaktzeiten.",
+              "url":  "Fahrten/Oeffentliche/Oeffentliche.php"
+              },
+              {"name": "Mietwagen und Car-sharing", 
+              "id":  "134",
+              "shortdesc":  "Autos werden oft für mehr Flexibilität auf Fernreisen angeschafft. Der Grund, warum viele Kurzstreckenfahrten gemacht werden, ist dass das Auto in seinem Unterhalt und in seiner Anschaffung so viel kostet, so dass der Halter das Auto auch benutzt sehen will.",
+              "url":  "Fahrten/Mietwagen/Mietwagen.php"
+              },
+              {"name": "Mitfahrzentrale", 
+              "id":  "135",
+
+              "url":  "Fahrten/Mitfahrzentrale/Mitfahrzentrale.php"
+              },
+              {"name": "Das Planungsdiagramm", 
+              "id":  "136",
+              "shortdesc":  "Das folgende Diagramm zeigt das Programm, das ich zurzeit einhalte, um konsequent Geld zu sparen, die Umwelt zu schonen, Spaß zu haben und fit zu bleiben. So ein Plan, ist sehr anschaulich um sich mit seiner Mobilität auseinanderzusetzen. Es wird für jeden, je nach Umgebung und Gewohnheiten anders aussehen.",
+              "url":  "Fahrten/Planungsdiagramm/Planungsdiagramm.php"
+              },
+              {"name": "Kürzere Arbeitswege", 
+              "id":  "137",
+              "shortdesc":  "Ein wichtiger Punkt beim Fahrtenverlagern, ist vielleicht für den einen weit hergeholt, für den anderen ist das vielleicht eine wertvolle Idee, die der Lebensqualität einen richtigen Schub gibt.",
+              "url":  "Fahrten/Arbeitswege/Arbeitswege.php"
+              }
+        ]}
+        ]},
+              {"name": "Technik", 
+              "id":  "138",
+              "shortdesc":  "Dass alle folgenden Tipps den Verbrauch senken, ist gut. Aber viele kriegen jetzt richtig große Ohren, wenn sie hören, dass die Tipps auch die Leistung des Motors erhöhen, für die sie irgendwann mal richtig viel Geld liegen lassen mussten.",
+              "url":  "Fahrzeugtechnik/Fahrzeugtechnik.php",
+              "children": [
+              {"name": "Motortechnik", 
+              "id":  "139",
+              "shortdesc":  "Dem Motor unter die Arme greifen. Auf dem Fahrrad haben wir es immer recht früh gemerkt, wenn die Kette nicht geschmiert oder zu stark gefettet war, so dass der viele damit gebundene Dreck den Antrieb hemmte. Es ging schwerer oder fing an zu quietschen. Doch wie merken Sie, dass Ihr Ölwechsel am Auto zu lange zurückliegt?",
+              "url":  "Fahrzeugtechnik/Motorlauf/Motorlauf.php"
+              },
+              {"name": "Tankstellen", 
+              "id":  "140",
+
+              "url":  "Fahrzeugtechnik/Kraftstoffe/Tankstellen/Tankstellen.php",
+              "children": [
+              {"name": "Diesel", 
+              "id":  "141",
+              "shortdesc":  "Dieselkraftstoff nach DIN EN 590",
+              "url":  "Fahrzeugtechnik/Kraftstoffe/Diesel/Diesel.php"
+              },
+              {"name": "E10", 
+              "id":  "142",
+
+              "url":  "Fahrzeugtechnik/Kraftstoffe/E10/E10.php"
+              },
+              {"name": "SuperPlus", 
+              "id":  "143",
+
+              "url":  "Fahrzeugtechnik/Kraftstoffe/SuperPlus/SuperPlus.php"
+              },
+              {"name": "Flüssiggas, LPG (Autogas)", 
+              "id":  "144",
+
+              "url":  "Fahrzeugtechnik/Kraftstoffe/LPG/LPG.php"
+              },
+              {"name": "Elektro", 
+              "id":  "145",
+              "shortdesc":  "Strom an der häuslichen Steckdose oder an der Stromtankstelle.",
+              "url":  "Fahrzeugtechnik/Kraftstoffe/Elektro/Elektro.php"
+              },
+              {"name": "Wasserstoff", 
+              "id":  "146",
+              "shortdesc":  "Wasserstoff-Antriebe sind die saubersten Antriebe. Bei der Verbrennung verbindet sich Wasserstoff mit Luft und es ensteht nur Wasserdampf als Abgas.",
+              "url":  "Fahrzeugtechnik/Kraftstoffe/Wasserstoff/Wasserstoff.php"
+              }
+        ]},
+              {"name": "Noch viel weiter rollen", 
+              "id":  "147",
+              "shortdesc":  "Wenn es einen Faktor gäbe, mit dem man über 10 % des Verbrauchs beeinflussen kann, dann sollte dieser vor allen Fahrtipps stehen. Nun hier kommt er angerollt, schwarz, schlank und hoffentlich nicht schlapp: Reifen sind die Verbindung zur Straße und machen den Bärenanteil der Fahrwiderstände.",
+              "url":  "Fahrzeugtechnik/Rollen/Rollen.php"
+              },
+              {"name": "Gewicht senken", 
+              "id":  "148",
+              "shortdesc":  "Gleich nach den Reibungen folgt das Gewicht als schwer wiegender Faktor für den Verbrauch. Egal ob beim Beschleunigen oder den Berg hinauf, überall muss der Motor das Gewicht schleppen. Das ist natürlich kein Grund, Oma nicht mehr zum Einkaufen mitzunehmen, aber vielleicht könnte diese Kenntnis zu Ideen inspirieren, das Gewicht und somit den Verbrauch zu senken.",
+              "url":  "Fahrzeugtechnik/Gewicht/Gewicht.php"
+              },
+              {"name": "Gewicht mehren", 
+              "id":  "149",
+              "shortdesc":  "Hallo Kombifahrer! Folgendes sind keine Tipps, sondern nur spezielle Geschichten ohne allgemeine Gültigkeit. Ich erzähle zwei Geschichten, in denen 200 kg Mehrgewicht, überlegt eingeladen, dem Verbrauch etwas Gutes taten:",
+              "url":  "Fahrzeugtechnik/GewichtMehr/GewichtMehr.php"
+              },
+              {"name": "Wie ein Pfeil durch die Luft", 
+              "id":  "150",
+              "shortdesc":  "Am Luftwiderstand ist eigentlich nicht viel zu machen. Sicherlich haben die wenigsten einen Elefanten, den man auf das Auto setzen kann, um auf die Form einzuwirken. Doch es gibt ein paar Kleinigkeiten, die uns luftwiderstandsmäßig weitere Prozente schenken. Ein verringerter Luftwiderstand macht sich besonders bei hoher Geschwindigkeit bemerkbar.",
+              "url":  "Fahrzeugtechnik/Luftwiderstand/Luftwiderstand.php"
+              },
+              {"name": "Elektrische Verbraucher", 
+              "id":  "151",
+              "shortdesc":  "Die Autoelektrik ist ausgeklügelt. Egal ob alle Lichter, Sitz- und Heckscheibenheizung gleichzeitig laufen oder nicht, von großen Strömen merkt man nichts. Und das, obwohl die Lichtmaschine wie ein Generator wirkt, der unseren Benzinmotor entsprechend der elektrischen Last bremst.",
+              "url":  "Fahrzeugtechnik/Elektrik/Elektrik.php"
+              },
+              {"name": "Klimaanlage", 
+              "id":  "152",
+              "shortdesc":  "Mit Klimaanlagen werden heute fast alle Neufahrzeuge ausgerüstet. Doch gibt es kalte Luft umsonst? Wäre es denn nicht besser, alle würden ihre Klimaanlage einschalten, um der globalen Klimaerwärmung entgegenzuwirken? Nein, leider im Gegenteil. Wie in einem Kühlschrank wird der Innenraum zwar gekühlt, die Außenwelt dagegen wird umso mehr erwärmt und das kostet Energie — in Summe wird immer mehr Wärme produziert als Kälte.",
+              "url":  "Fahrzeugtechnik/Klimaanlage/Klimaanlage.php",
+              "children": [
+              {"name": "Funktion der Klimaanlage", 
+              "id":  "153",
+              "shortdesc":  "Wie funktioniert eine übliche PKW-Klimaanlage mit Kompressionskältemaschine überhaupt?",
+              "url":  "Fahrzeugtechnik/Klimaanlage/Funktion/Klimaanlage-Funktion.php"
+              },
+              {"name": "Betrieb der Klimaanlage", 
+              "id":  "154",
+              "shortdesc":  "Wenn schon Klimaanlagenbetrieb, dann bitteschön verbrauchsoptimierte Benutzung:",
+              "url":  "Fahrzeugtechnik/Klimaanlage/Einsatz/Klimaanlage-Einsatz.php"
+              }
+        ]},
+              {"name": "Umbauten zum Benzinsparen", 
+              "id":  "155",
+              "shortdesc":  "Was für manche weit weg erscheint, kann für anderen nahe liegen. So legen manche Hand an ihr Fahrzeug, um Kraftstoff zu sparen:",
+              "url":  "Fahrzeugtechnik/Umbauten/Umbauten.php"
+              },
+              {"name": "Tempomat fahren", 
+              "id":  "156",
+              "shortdesc":  "Das beginnt bereits beim Autokauf: Von gewissem Vorteil ist zunächst schon mal, wenn der Bedienhebel so belegt ist, wie das allgemein üblich ist. Schließlich sind Kupplung, Bremse und Gaspedal auch einheitlich angeordnet. Nur so ist auch bei Fahrzeugwechsel durch jeden Fahrer eine intuitive Bedienung gesichert. Hersteller wie z. B. Audi halten sich an folgende übliche Belegung des kürzeren Bedienhebels links unter dem längeren Blinker-/Fernlichthebel:",
+              "url":  "Fahrzeugtechnik/Tempomat/Tempomat.php",
+              "children": [
+              {"name": "Bedienhebel ", 
+              "id":  "157",
+              "shortdesc":  "Hersteller wie z. B. Audi halten sich an folgende übliche Belegung des kürzeren Bedienhebels links unter dem längeren Blinker-/Fernlichthebel:",
+              "url":  "Fahrzeugtechnik/Tempomat/Hebel.php",
+              "children": [
+              {"name": "Hebel Raststellung vorne außen („OFF“)", 
+              "id":  "158",
+              "shortdesc":  "Tempomat mit zugehörigem Display permanent ausschalten und gespeicherte Sollgeschwindigkeit löschen. Diese Abschaltmethode wird nur empfohlen, wenn der Tempomat überhaupt nicht genutzt werden soll und den Fahrer in keiner Weise ablenken soll. Den permanent abgeschalteten Tempomat erkennt man am erloschenen grünen Tempomatsymbol auf dem Tacho sowie an der verschwundenen Displayanzeige der zuletzt gespeicherten Sollgeschwindigkeit.",
+              "url":  "Fahrzeugtechnik/Tempomat/OFF/OFF.php"
+              },
+              {"name": "Hebel-Taststellung vorne innen („CANCEL“)", 
+              "id":  "159",
+              "shortdesc":  "Tempomat temporär ausschalten; letzte Sollgeschwindigkeit bleibt gespeichert.",
+              "url":  "Fahrzeugtechnik/Tempomat/CANCEL/CANCEL.php"
+              },
+              {"name": "Hebel-Raststellung hinten innen („ON“)", 
+              "id":  "160",
+              "shortdesc":  "Tempomat mit Display permanent auf „Standby“ schalten oder Einschaltung durch andere Funktion speichern.",
+              "url":  "Fahrzeugtechnik/Tempomat/ON/ON.php"
+              },
+              {"name": "Hebel-Taststellung hinten außen („RESUME“)", 
+              "id":  "161",
+              "shortdesc":  "Tempomat von „Standby“ auf „Ein“ schalten, wenn vorher Sollgeschwindigkeit gespeichert wurde; wird sonst ignoriert.",
+              "url":  "Fahrzeugtechnik/Tempomat/RESUME/RESUME.php"
+              },
+              {"name": "Taste an Hebelstirnseite, kurz („SET“)", 
+              "id":  "162",
+              "shortdesc":  "Aktuelle Geschwindigkeit, die mindestens 30 km/h schnell sein muss, als Sollgeschwindigkeit setzen und Tempomat von „Standby“ auf „Ein“ schalten; wird sonst ignoriert.",
+              "url":  "Fahrzeugtechnik/Tempomat/SET/SET.php"
+              },
+              {"name": "Hebel-Taststellung oben, lang („SPEED+10“)", 
+              "id":  "163",
+              "shortdesc":  "Vorher gesetzte Sollgeschwindigkeit auf volle 10 km/h aufrunden und dann in 10 km/h-Intervallen weiter erhöhen (Dekadeninkrement); wird sonst ignoriert.",
+              "url":  "Fahrzeugtechnik/Tempomat/SPEEDp10/SPEEDp10.php"
+              },
+              {"name": "Hebel-Taststellung oben, kurz („SPEED+1“) ", 
+              "id":  "164",
+              "shortdesc":  "Vorher gesetzte Sollgeschwindigkeit um 1 km/h erhöhen (Einzelinkrement); wird sonst ignoriert.",
+              "url":  "Fahrzeugtechnik/Tempomat/SPEEDp1/SPEEDp1.php"
+              },
+              {"name": "Hebel-Taststellung unten, kurz („SPEED-1“)", 
+              "id":  "165",
+              "shortdesc":  "Vorher gesetzte Sollgeschwindigkeit um 1 km/h verringern (Einzeldekrement); wird sonst ignoriert.",
+              "url":  "Fahrzeugtechnik/Tempomat/SPEEDm1/SPEEDm1.php"
+              },
+              {"name": "Hebel-Taststellung unten, lang („SPEED-10“)", 
+              "id":  "166",
+              "shortdesc":  "Vorher gesetzte Sollgeschwindigkeit auf volle 10 km/h abrunden und dann in 10 km/h-Intervallen weiter verringern (Dekadendekrement); wird sonst ignoriert.",
+              "url":  "Fahrzeugtechnik/Tempomat/SPEEDm10/SPEEDm10.php"
+              },
+              {"name": "Taste an Hebelstirnseite, lang („MIDSET“) ", 
+              "id":  "167",
+              "shortdesc":  "Aktuelle Durchschnittsgeschwindigkeit der letzten im Menü einstellbaren X Minuten, die mindestens 30 km/h schnell sein muss, als Sollgeschwindigkeit setzen; wird sonst ignoriert. Diese Funktion lässt im zähflüssigen Stop-and-go-Verkehr längere Sicherheitsabstände entstehen, die trotz schwankender Geschwindigkeit des übrigen Verkehrs genutzt werden können, um sich selbst und den Nachfolgeverkehr konstant fahren zu lassen.",
+              "url":  "Fahrzeugtechnik/Tempomat/MIDSET/MIDSET.php"
+              }
+        ]},
+              {"name": "Nutzbereiche des Tempomats", 
+              "id":  "168",
+              "shortdesc":  "Wer glaubt, die Nutzung des Tempomats beginnt erst auf der freien Autobahn, auf der man Konstantgeschwindigkeit fahren kann, ist auf dem Holzweg und sollte dringend versuchen, sich von diesem weit verbreiteten Vorurteil zu lösen. Seine Dienste stehen bereits nach Überschreitung der Sperrgrenze von 30 km/h auch innerhalb von Ortschaften sinnvoll zur Verfügung.",
+              "url":  "Fahrzeugtechnik/Tempomat/Nutzung/Nutzung.php",
+              "children": [
+              {"name": "Accelerate-Sequenz (Beschleunigungssequenz)", 
+              "id":  "169",
+              "shortdesc":  "Eine Accelerate-Sequenz (Beschleunigungssequenz) besteht ausschließlich aus den Betriebsarten „Beschleunigen“ sowie „Geschwindigkeit halten“ und sollte bereits beginnen, sobald die Sperrgrenze von 30 km/h überschritten ist.",
+              "url":  "Fahrzeugtechnik/Tempomat/SequenzAccelerate/SequenzAccelerate.php"
+              },
+              {"name": "Cruise-Sequenz (Reisesequenz)", 
+              "id":  "170",
+              "shortdesc":  "Eine Cruise-Sequenz (Reisesequenz) besteht ausschließlich aus den Betriebsarten „Geschwindigkeit auf Steigungen bis flachem Gefälle mit Motor halten“, „Geschwindigkeit auf mittlerem Gefälle mit Freilauf halten oder steigern“ sowie „Geschwindigkeit auf steilem Gefälle mit Motorbremse halten oder steigern“.",
+              "url":  "Fahrzeugtechnik/Tempomat/SequenzCruise/SequenzCruise.php"
+              },
+              {"name": "Decelerate-Sequenz (Verzögerungssequenz)", 
+              "id":  "171",
+              "shortdesc":  "Eine Decelerate-Sequenz (Verzögerungssequenz) besteht ausschließlich aus den Betriebsarten „Verzögern“ sowie „Geschwindigkeit halten“.",
+              "url":  "Fahrzeugtechnik/Tempomat/SequenzDecelerate/SequenzDecelerate.php"
+              }
+        ]}
+        ]},
+              {"name": "Strom aus Kraftstoffen erzeugen", 
+              "id":  "172",
+              "shortdesc":  "Strom, der aus Kraftstoffen erzeugt wurde, ist trotz enorm gestiegener Strompreise sehr viel teurer als jeder Netzstromtarif.",
+              "url":  "Fahrzeugtechnik/Strom-aus-Kraftstoff/Strom-aus-Kraftstoff.php",
+              "children": [
+              {"name": "Spannungswandler", 
+              "id":  "173",
+              "shortdesc":  "Spannungswandler werden genutzt, um aus einer vorhandenen niedrigen Versorgungsgleichspannung eine höhere benötigte zu erzeugen.",
+              "url":  "Fahrzeugtechnik/Strom-aus-Kraftstoff/Spannungswandler/Spannungswandler.php"
+              }
+        ]},
+              {"name": "Nützliche Utensilien für das Auto", 
+              "id":  "174",
+              "shortdesc":  "Nützliche Utensilien für das Auto, neben den gesetzlich bestimmten Einrichtungen:",
+              "url":  "Fahrzeugtechnik/Ausruestung/Ausruestung.php"
+              },
+              {"name": "Handleuchte", 
+              "id":  "175",
+              "shortdesc":  "Apropos Handleuchte: Folgendes Möbel hatte tatsächlich ausreichend Nerv, mir vor die Pupille zu schleichen. Handliches, extrem helles Gerät mit großem Scheinwerfer.",
+              "url":  "Fahrzeugtechnik/Ausruestung/Handleuchte/Handleuchte.php"
+              }
+        ]},
+              {"name": "Autokauf", 
+              "id":  "176",
+              "shortdesc":  "Den größten Einfluss auf den Verbrauch hat das Auto. Wenn man sich für das richtige Auto entscheidet, kann man sehr viel sparen. Es gibt sehr viele sparsame Modelle.",
+              "url":  "Autokauf/Autokauf.php",
+              "children": [
+              {"name": "Geldbeutel's Stimme", 
+              "id":  "177",
+              "shortdesc":  "Zunächst sollte mal der verfügbare Geldbeutel seine Stimme erheben dürfen. Auf keinen Fall sollten Sie jedoch bereits im Vorgriff irgendeine Schmerzgrenze festlegen. Informieren Sie sich zuerst in jeder Preisklasse und treffen erst dann eine Entscheidung in Abhängigkeit von Preis und Effizienz.",
+              "url":  "Autokauf/Kommerziell/Kommerziell.php"
+              },
+              {"name": "Fahrzeuggewicht", 
+              "id":  "178",
+              "shortdesc":  "Schweres Gewicht haben alle Blechkisten, doch die Unterschiede sind tonnenschwer: Zwischen 750 kg und 2.300 kg lasten auf der Bereifung.",
+              "url":  "Autokauf/Gewicht/Gewicht.php",
+              "children": [
+              {"name": "Ersatzrad, Notrad oder Reifendichtmittel?", 
+              "id":  "179",
+              "shortdesc":  "Hand aufs Herz: Wie viele Jahrzehnte fahren Sie schon Ersatzräder spazieren, ohne diese auch nur einmal gebraucht zu haben? Sicher ist besser, bei Bedarf eines zu haben, als nur eines zu hätten, allerdings kosten auch Noträder nicht unerheblich Sprit und Platz.",
+              "url":  "Autokauf/Gewicht/Ersatzrad/Ersatzrad.php"
+              }
+        ]},
+              {"name": "Front-, Heck- oder Allradantrieb?", 
+              "id":  "180",
+              "shortdesc":  "Die Antriebstrang im Automobil ist unterschiedlich nach Lage des Motors und der Antriebsachse ausgeführt.",
+              "url":  "Autokauf/Antrieb/Antrieb.php"
+              },
+              {"name": "Verbrauchsangaben des Herstellers", 
+              "id":  "181",
+
+              "url":  "Autokauf/Motor/Verbrauchsangaben/Verbrauchsangaben.php",
+              "children": [
+              {"name": "NEFZ", 
+              "id":  "182",
+
+              "url":  "Autokauf/Motor/Verbrauchsangaben/NEFZ/NEFZ.php"
+              },
+              {"name": "Motorart", 
+              "id":  "183",
+              "shortdesc":  "Verschiedene Antriebsmotoren haben den Einsatz im Fahrzeug gefunden. Verschiedene Energieträger werden eingesetzt. Zu dem gibt es Kombinationen aus mehreren Energieträger, die sich mit Vorteile auf Teilgebieten bereichern und ihre Nachteile ausgleichen.",
+              "url":  "Autokauf/Motor/Kraftstoffart/Kraftstoffart.php",
+              "children": [
+              {"name": "Benzin-Motor", 
+              "id":  "184",
+
+              "url":  "Autokauf/Motor/Kraftstoffart/Benzin/Benzin.php",
+              "children": [
+              {"name": "Direkteinspritzung im Benziner", 
+              "id":  "185",
+              "shortdesc":  "Direkteinspritzung im Benziner sind leider auch heute noch nicht in allen Motorvarianten enthalten, dabei steigern sie gegenüber Vergasern den Wirkungsgrad und senken den Verbrauch.",
+              "url":  "Autokauf/Motor/Kraftstoffart/Benzin/Direkteinspritzung-Benzin/Direkteinspritzung-Benzin.php"
+              }
+        ]},
+              {"name": "Diesel", 
+              "id":  "186",
+              "shortdesc":  "Benziner waren Standard im PKW und verbrauchen heute zwischen 5 und 15 L/100km. Die tollen Fortschritte mit dem Turbo und später mit der Einspritzung verhalfen in den Neunzigern den Diesel ins Auto. Autos mit Erdgastank war",
+              "url":  "Autokauf/Motor/Kraftstoffart/Diesel/Diesel.php",
+              "children": [
+              {"name": "Einspritzanlage im Diesel in Bauweise „Pumpe-Düse“ oder „CommonRail“?", 
+              "id":  "187",
+              "shortdesc":  "Dieselmotoren haben keinen Vergaser, sondern saugen nur Luft in den Hubraum und verdichten diese. Unmittelbar vor dem gewünschten Zündzeitpunkt wird mit extrem hohem Druck Diesel durch eine Einspritzdüse im Hubraum zerstäubt.",
+              "url":  "Autokauf/Motor/Kraftstoffart/Diesel/Einspritzanlage-Diesel/Einspritzanlage-Diesel.php"
+              }
+        ]},
+              {"name": "Hybridtechnologie", 
+              "id":  "188",
+              "shortdesc":  "Hybridtechnologie ist ein wichtiger Effizienzsprung. Der Oberbegriff „Hybrid“ bedeutet frei übersetzt allgemein „zwei zu einem verschmolzen“ und findet auch in anderen Fachbereichen Anwendung (z. B. Genetik). Im Kontext mit Fahrzeugen sind damit zwei verschiedene Antriebsarten gemeint, die zur Effizienzsteigerung miteinander kombiniert sind.",
+              "url":  "Autokauf/Motor/Kraftstoffart/Hybridtechnologie/Hybridtechnologie.php",
+              "children": [
+              {"name": "E-Auto (Elektrohybrid)", 
+              "id":  "189",
+              "shortdesc":  "Ein reiner „Elektrohybrid“ (der diesen Namen wie oben beschrieben zu Unrecht trägt) ist aus demselben Grund bestenfalls bei ausschließlichem Kurzstreckenbetrieb, sonst eher nicht empfehlenswert, da dieser unterm Strich meist mehr Werkstattkosten als Einsparungen generiert.",
+              "url":  "Autokauf/Motor/Kraftstoffart/Hybridtechnologie/Elektrohybrid/Elektrohybrid.php"
+              },
+              {"name": "Paralleler Elektro-/Verbrennungshybrid", 
+              "id":  "190",
+              "shortdesc":  "Beim parallelen „Elektro-/Verbrennungshybrid“ arbeiten ein Elektromotor und ein Verbrennungsmotor (Benzin oder Diesel) auf die gleiche Welle. Der E-Motor ist in der Lage, beim Bremsen Energie mittelfristig in eine Batterie oder kurzfristig in einen Kondensator zurück zu speisen (Rekuperation) und zeitversetzt zum Beschleunigen wieder zu verwerten.",
+              "url":  "Autokauf/Motor/Kraftstoffart/Hybridtechnologie/Elektro-Verbrennungshybrid/Elektro-Verbrennungshybrid.php"
+              },
+              {"name": "Mildhybridantrieb", 
+              "id":  "191",
+              "shortdesc":  "Der „Mildhybridantrieb“ des Reifen- und Autoelektronikherstellers Continental ist ein paralleler Elektro-/Verbrennungshybrid der zweiten Generation. Im Gegensatz zu bisherigen Konzepten, die als Studie zur Gewinnung von Erfahrungen sowie bestenfalls zur Auflage einer Kleinserie für grün angehauchte finanzkräftige Idealisten realisiert wurden, soll dieser Prototyp bis Ende 2016 zur Serienreife entwickelt werden und dann für die breite Masse zu christlichen Preisen erschwinglich sein.",
+              "url":  "Autokauf/Motor/Kraftstoffart/Hybridtechnologie/Mildhybridantrieb/Mildhybridantrieb.php"
+              }
+        ]},
+              {"name": "Brennstoffzellenhybrid", 
+              "id":  "192",
+              "shortdesc":  "Der „Brennstoffzellenhybrid“ ist heute meist nur als experimenteller Prototyp zu finden. Eine Brennstoffzelle erzeugt durch kalte Oxydation von brennbarem Gas hocheffizient direkt Strom für einen E-Motor ohne Ladeverluste einer großen Antriebsbatterie und thermische Verluste oder Lärm einer herkömmlichen Verbrennung.",
+              "url":  "Autokauf/Motor/Kraftstoffart/Hybridtechnologie/Brennstoffzellenhybrid/Brennstoffzellenhybrid.php"
+              },
+              {"name": "Erdgas", 
+              "id":  "193",
+              "shortdesc":  "Erdgas-Autos waren in Deutschland fürher eher speziell umgebaute Fahrzeuge, wobei es Erdgastankstellen in größeren Städten schon länger gibt.",
+              "url":  "Autokauf/Motor/Kraftstoffart/Erdgas/Erdgas.php",
+              "children": [
+              {"name": "Gas-/Verbrennungshybrid", 
+              "id":  "194",
+              "shortdesc":  "Ein „Gas-/Verbrennungshybrid“ ist das Gegenteil und verfügt eigentlich nur über einen Verbrennungsmotor (Benzin oder Diesel). Der Zweitantrieb besteht nur aus einem zusätzlichen LPG- oder Erdgastank mit Steuerung und zusätzlicher Gaseinspritzanlage in den Verbrennungsmotor.",
+              "url":  "Autokauf/Motor/Kraftstoffart/Hybridtechnologie/Gas-Verbrennungshybrid/Gas-Verbrennungshybrid.php"
+              },
+              {"name": "e-Gas-/Erdgas/Verbrennungshybrid", 
+              "id":  "195",
+              "shortdesc":  "Der „e-Gas-/Erdgas/Verbrennungshybrid“ ist eine Neuentwicklung von Audi. Seit Beschluss unserer Regierung zum Kernenergieausstieg wurden zahlreiche regenerative Kraftwerke errichtet.",
+              "url":  "Autokauf/Motor/Kraftstoffart/Hybridtechnologie/e-Gas-Erdgas-Verbrennungshybrid/e-Gas-Erdgas-Verbrennungshybrid.php"
+              }
+        ]}
+        ]},
+              {"name": "Mechanisch oder hydraulisch betätigte Ventile?", 
+              "id":  "196",
+              "shortdesc":  "Ende der 70er war BMW der oder einer der ersten, der selbstnachjustierende Hydrostößel zur Ventilsteuerung eingeführt hatte.",
+              "url":  "Autokauf/Motor/Ventilbetaetigung/Ventilbetaetigung.php"
+              },
+              {"name": "Feste oder adaptive Zündwinkelverstellung?", 
+              "id":  "197",
+              "shortdesc":  "Verschiedene Benzinsorten sind unterschiedlich teuer und enthalten auch unterschiedlich viel Energie (Oktanzahl). Letzteres führt bei gleicher Temperatur auch zur unkontrollierten vorzeitigen Selbstzündung bei unterschiedlichem Druck.",
+              "url":  "Autokauf/Motor/Zuendwinkelverstellung/Zuendwinkelverstellung.php"
+              },
+              {"name": "Hubraum", 
+              "id":  "198",
+              "shortdesc":  "Der Hubraum ist Teil der Verbrennungskammer des Motors und ist zwischen 1 und 4 Liter groß.",
+              "url":  "Autokauf/Motor/Hubraum/Hubraum.php"
+              },
+              {"name": "Turboaufladung", 
+              "id":  "199",
+              "shortdesc":  "Turboaufladung war ursprünglich für den Rennsport entwickelt worden, um aus denselben PS-Monstern ohne weitere übermäßige Massenmehrung noch mehr PS zu kitzeln und ohne hierzu den Motorraum verlassen zu müssen.",
+              "url":  "Autokauf/Motor/Turboaufladung/Turboaufladung.php"
+              },
+              {"name": "Wieviele Gänge?", 
+              "id":  "200",
+              "shortdesc":  "Zusätzliche Gänge und Untersetzungen, die bei gleichen Gangabständen eine niedrigere Drehzahl für dieselbe Maximalgeschwindigkeit erlauben, sind eine Investition wert.",
+              "url":  "Autokauf/Getriebe/Gangzahl/Gangzahl.php"
+              },
+              {"name": "Schaltgetriebe oder Standardautomatik?", 
+              "id":  "201",
+              "shortdesc":  "Mit dem Verzicht auf die Handschaltung gibt man einen großen Einfluss auf den Verbrauch aus den Händen, das wird diese Seite zeigen. Und auch die Herstellerangaben zeigen: Die meisten Standardautomatikgetriebe mit Wandlerkupplung brauchen mehr Sprit. Zusätzlich braucht die Automatik die ersten 5-10 km mehr, bis die Füllung der Wandlerkupplung warm gelaufen ist.",
+              "url":  "Autokauf/Getriebe/Automatikgetriebe/Automatikgetriebe.php"
+              },
+              {"name": "Gepäckraumsicherung", 
+              "id":  "202",
+              "shortdesc":  "Eine Gepäckraumsicherung bringt erforderliche Sicherheit, um zu vermeiden, dass den Insassen bei einer stärkeren Bremsung oder gar einem abrupten Aufprall die eigene Ladung noch mal durch den Kopf geht.",
+              "url":  "Autokauf/Gepaeckraumsicherung/Gepaeckraumsicherung.php"
+              },
+              {"name": "Benzinsparpakete", 
+              "id":  "203",
+              "shortdesc":  "Allerlei Benzinsparpakete werden in neuen Autos angeboten. Veränderte Getriebeübersetzungen; Autos, die an Ampeln automatisch aus gehen; Lufteinlässe, die sich per Stellmotor verschließen können; verkleidete Unterböden zur Luftwiderstandssenkung. Mercedes hat eine Verbrauchsanzeige, auf der 3 Bargraphbalken einblendbar sind, mit denen die bisherige Effizienz des Fahrers bewertet wird: Eine Innovation, mit der ein Wettbewerb verschiedener oder auch eines einzigen Fahrers zum Spritsparen motiviert wird.",
+              "url":  "Autokauf/Benzinsparpakete/Benzinsparpakete.php"
+              },
+              {"name": "Verbrauchsanzeige", 
+              "id":  "204",
+              "shortdesc":  "Was will uns die Verbrauchsanzeige sagen? Verbrauchsanzeigen liefern bereits während der ganzen Fahrt in den genannten Situationen hilfreiche Daten ans Licht:",
+              "url":  "Autokauf/Verbrauchsanzeige/Verbrauchsanzeige.php",
+              "children": [
+              {"name": "Augenblicklicher Momentanverbrauch ", 
+              "id":  "205",
+              "shortdesc":  "Bordcomputer 1 oder 2 ohne Durchschnittssymbol",
+              "url":  "Autokauf/Verbrauchsanzeige/Momentanverbrauch/Momentanverbrauch.php"
+              },
+              {"name": "Bisheriger Durchschnittsverbrauch auf gesamter Tagesstrecke seit der letzten mindestens 2 Stunden langen Fahrpause", 
+              "id":  "206",
+              "shortdesc":  "Bordcomputer 1 mit Durchschnittssymbol",
+              "url":  "Autokauf/Verbrauchsanzeige/Durchschnittsverbrauch/Durchschnittsverbrauch.php"
+              },
+              {"name": "Bisheriger Durchschnittsverbrauch auf gesamter Fahrstrecke seit Erstinbetriebnahme", 
+              "id":  "207",
+              "shortdesc":  "Bordcomputer 2 mit Durchschnittssymbol",
+              "url":  "Autokauf/Verbrauchsanzeige/Durchschnittsverbrauch/Durchschnittsverbrauch-2.php"
+              },
+              {"name": "Erzielbare Reichweite mit restlichem Treibstoff bei bisherigem Durchschnittsverbrauch", 
+              "id":  "208",
+              "shortdesc":  "(Bordcomputer 1 oder 2 mit Zapfsäulensymbol)",
+              "url":  "Autokauf/Verbrauchsanzeige/Reichweite/Reichweite.php"
+              }
+        ]}
+        ]}
+        ]},
+              {"name": "Extras", 
+              "id":  "209",
+              "shortdesc":  "Hier finden sie diverse Inhalte zu und über spare-benzin.de. Zum Beispiel Sammelwerke zu allen verwendeten Formeln und Rechnern. Sie lernen meine Dienstleistungen kennen. Und sie finden das Impressum.",
+              "url":  "Extras/Extras.php",
+              "children": [
+              {"name": "Kontakt", 
+              "id":  "210",
+              "shortdesc":  "Mit diesem Kontaktformular haben Sie die Möglichkeit mir persönlich zu schreiben. Hinterlassen Sie mir eine Email-Adresse damit ich Ihnen zurückschreiben kann.",
+              "url":  "Extras/Kontakt/Kontakt.php"
+              },
+              {"name": "Dienstleistungen", 
+              "id":  "211",
+              "shortdesc":  "Neben dieser Seite biete ich weitere Dienstleistungen an. Ich biete Beratung, Schulungen und Fahrtrainings an. Sie erhalten individuelle Dienstleistungen entsprechend Ihre Bedürfnisse. Besonders für Vielfahrer aber auch für Lastwagenfahrer lohnt sich ein Fahrtraining sehr. Angesichts des Verbrauchs eines Lastwagen von zum Beispiel 40 L/100km und der vielen Kilometer die ein Kraftfahrer im Monat macht, lohnt sich ein Fahrtraining das den Verbrauch senkt sehr. Es ist sehr zu empfehlen, für Kraftfahrer, die täglich fahren. Man kann bis zu 300 € pro Monat sparen.",
+              "url":  "Extras/Dienstleistungen/Dienstleistungen.php"
+              },
+              {"name": "Impressum", 
+              "id":  "212",
+              "shortdesc":  "Nach §6 TDG ist bei geschäftsmäßigen Teledienste ein Impressum notwendig. Alle folgenden Angaben beziehen sich auf die Domäne und die Homepage . Sie wurde erstellt durch das Ingenieurbüro Sowada:",
+              "url":  "Extras/Impressum/Impressum.php"
+              },
+              {"name": "Rechner", 
+              "id":  "213",
+              "shortdesc":  "Interaktive Formeln aus dem Inhalt",
+              "url":  "Extras/Rechner/Rechner.php"
+              },
+              {"name": "Formeln", 
+              "id":  "214",
+              "shortdesc":  "Formeln aus dem Inhalt. Es gibt mathematische Formeln zur Beschreibung der Bewegung von Fahrzeugen. Hier sind die hier verwendeten aufgelistet:",
+              "url":  "Extras/Formeln/Formeln.php"
+              },
+              {"name": "Stichworte", 
+              "id":  "215",
+              "shortdesc":  "Hier finden Sie Stichworte zu allen beschriebenen Themen. Benutzen Sie dieses Verzeichnis um alle Informationen zu einem bestimmten Stichwort zu erhalten. Wahlweise können Sie auch die Sitemap benutzen, die in hierarchischer Reihenfolge ist. Das Stichwortverzeichnis erhebt kein Anspruch auf Vollständigkeit.",
+              "url":  "Extras/Verzeichnis/Verzeichnis.php"
+              },
+              {"name": "Sitemap", 
+              "id":  "216",
+              "shortdesc":  "Diese Seite zeigt das index an. Sie wird durch das System mit index überspielt. Dieser Inhalt hat keine Bedeutung. Das Topic ist nur eingebunden, damit es im Menü angezeigt wird.",
+              "url":  "Sitemap.php"
+              }
+        ]}
+        ]}
+        
